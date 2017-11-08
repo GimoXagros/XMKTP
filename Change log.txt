@@ -32,3 +32,190 @@ Thank you for downloaded this mod. (By.Xagros)
 
 0.1.0 (2017-07-28)
 - Add some mods (Meltdown, NauvisDay, robot_attrition, WearAndTear, Fully Automated Rail Layer)
+# XMKTP(Xagros's Mods Korean Translation Project)
+Korean localization mod for Some mods for Factorio.
+
+Thank you for downloaded this mod. (By.Xagros)
+
+0.0.1 (2017-07-16)
+- Released this mod
+
+0.0.2 (2017-07-17)
+- Added Text Plates
+
+0.0.3 (2017-07-17)
+- Added Color Picker
+
+0.0.4 (2017-07-21)
+- Added 5dim's mods locale fix
+
+0.0.5 (2017-07-21)
+- Add some mods (autofill, BigBags, Bottleneck, Flow Control, Map Ping, rso-mod, VehicleSnap)
+
+0.0.6 (2017-07-24)
+- Add some mods (DeepMine, DoubleFurnace, Electric Furnaces, Enhanced_Map_Colors, EquipmentHotkeys, EvoGUI, KS_Power, Wind_Turbine, YARM)
+
+0.0.7 (2017-07-26)
+- Add some mods (air-filtering, alien-biomes, angelssmelting-extended, Big Brother, Bio Industries, bobsflowcontrol, extinguisher, Flare, StoneWaterWell, TrainSpeedLimit, vanilla-loaders, Vehicle Wagon, Warehousing, WaterWell)
+
+0.0.8 (2017-07-28)
+- Add some mods (Concrete Lamppost, Laser Beam Turrets, Loader Furnace, Noxys Waterfill, Orbital Ion Cannon, Satellite Uplink Station)
+
+0.0.9 (2017-07-28)
+- Add some mods (beltSorter, BigDrills, BridgeRailway, Expanded Color Lamps, JunkTrain, methane-processing, MiningTools, Natural Evolution Buildings, Natural Evolution Enemies, Natural Evolution Expansion, RailPowerSystem, Rampant, Renamer, SmarterInserter, Swarm, TeslaTurret, train-speed-limiter)
+
+0.1.0 (2017-07-28)
+- Add some mods (Meltdown, NauvisDay, robot_attrition, WearAndTear, Fully Automated Rail Layer)
+
+0.1.1 (2017-08-02)
+- Add some mods (Teslacharger)
+- Updated localefiles (DeepMine, EvoGUI, Natural Evolution Buildings, Natural Evolution Enemies, WearAndTear, NauvisDay)
+- fixed localefiles (5dim_nuclear)
+
+0.1.2 (2017-08-04)
+- removed some mods (EvoGUI)
+- Add some mods (Big_Menzs_Research_Pack, DirtyMining, MiniBasicStart, orechaos, Ruins, voidextension, Waterbomb, WideChests)
+- Updated localefiles (DeepMine, methane-processing, Natural Evolution Buildings, Natural Evolution Enemies, Natural Evolution Expansion, NauvisDay, Noxys_Waterfill, Teslacharger, WearAndTear)
+
+0.1.3 (2017-08-05)
+- Updated localefiles (Bio Industries)
+
+0.1.4 (2017-08-06)
+- Add some mods (Endgame Combat, Functions-mod, Teleportation, Various Tiles Mod, Various Tiles Mod - Extended)
+- Updated localefiles (Junk Train, Natural Evolution Buildings)
+
+0.1.5 (2017-08-08)
+- Add some mods (Avatars, LogisticTrainNetwork, truck, Inventory Sensor)
+- Updated localefiles (Junk Train, methane processing, WearAndTear, orechaos)
+
+0.1.6 (2017-08-08)
+- Add some mods (SpaceBook, Geothermal)
+- Updated localefiles (FARL, WideChests, DirtyMining, Natural_Evolution_Buildings, Natural_Evolution_Expansion, NauvisDay, EndgameCombat)
+
+0.1.7 (2017-08-10)
+- Add some mods (ElectricTrain, FasterStart, FusionTrain, HandCrankGenerator, ManVersusMachine, More-Locomotives, Natural_Evolution_Expansion, Nuclear Locomotives, op_train_speed, Waterbomb)
+- Updated localefiles (5dim_resources, color-picker, DirtyMining, EndgameCombat, JunkTrain2, RailPowerSystem, WearAndTear, YARM)
+
+0.1.8 (2017-08-11)
+- Add some mods (Locomotive Obituaries, Reactor Interface, UsefulCombinators)
+- Updated localefiles (BigDrills, Bio Industries, DirtyMining, EndgameCombat, HandCrankGenerator, More-Locomotives, Nuclear Locomotives, Ruins, WearAndTear)
+
+0.1.9 (2017-08-12)
+- Add some mods (Surfaces_remake, Vehicle_Radar, visual-signals)
+- Updated localefiles (Bio_Industries, DirtyMining, HandCrankGenerator, LogisticTrainNetwork, Rampant, train-speed-limiter)
+
+0.1.10 (2017-08-13)
+- Add some mods (PowerAndArmor, vtk-deep-core-mining, reverse-factory)
+- Updated localefiles (Bio_Industries, WearAndTear)
+
+0.1.11 (2017-08-19)
+- Add some mods (Armageddon, ChooChoo, delorean, FluidCompression, FTweaks, specialized_refineries, useful_equipment, Zoom)
+- Updated localefiles (Bio_Industries, DirtyMining, EndgameCombat, FasterStart, HandCrankGenerator, Inventory Sensor, LogisticTrainNetwork, ManVersusMachine, MiniBasicStart, Natural_Evolution_Expansion, NauvisDay, Nuclear Locomotives, Rampant, UsefulCombinators)
+- Name and Description translated
+
+0.1.12 (2017-08-24)
+- Add some mods (Black Market (sell and buy on the market), TradingChests (exchanges between forces))
+- Updated localefiles (Earendel's AAI mods)
+
+0.1.13 (2017-08-25)
+- Add some mods (Vehicle-turrets, TerranBuildings, scattergun_turret, Noxys_Trees, Noxys_QuickerStumpFade, FuelTrainStop, biter-spire, ammo-loader)
+- Updated localefiles (rso-mod, orechaos, Orbital Ion Cannon, NauvisDay, Loader-Furnace, EndgameCombat, DirtyMining, Bio_Industries, Avatars)
+
+0.1.14 (2017-08-27)
+- Bug fix
+
+0.1.15 (2017-09-03)
+- Add some mods (LargeLamp, mini-machines, Overmind, quarry, robotMiningSite, vtk-cannon-turret, WormAttack)
+- Updated localefiles (Bio_Industries, EndgameCombat, FTweaks, FuelTrainStop, Inventory Sensor, LogisticTrainNetwork, Natural_Evolution_Buildings, orechaos, reverse-factory, Swarm, Teleportation, Teslacharger, textplates, UsefulCombinators, Vehicle-turrets, WearAndTear)
+
+0.1.16 (2017-09-05)
+- Add some mods (Cannon Alpha)
+- Updated localefiles (ammo-loader, Bio_Industries, Electric Furnaces, EndgameCombat, LargeLamp, Natural_Evolution_Buildings, WearAndTear)
+
+0.1.17 (2017-09-07)
+- Add some mods (ATCTower, HydraulicPumpjacks, ShinyAngelGFX, ShinyBobGFX, ShinyIcons, Ships, WarehouseAddons)
+- Updated localefiles (Bio_Industries, Natural_Evolution_Buildings, NauvisDay)
+
+0.1.18 (2017-09-07)
+- Add some mods (Nanobots, Raven)
+- Updated localefiles (CannonAlpha, ShinyBobGFX, WearAndTear)
+
+0.1.19 (2017-09-08)
+- Bug fix
+- Add some mods (Signposts)
+- Updated localefiles (HydraulicPumpjacks)
+
+0.1.20 (2017-09-10)
+- Add some mods (armor-pockets)
+- Updated localefiles (ATCTower, ElectricTrain, Ships, visual-signals)
+
+0.1.21 (2017-09-10)
+- Bug fix
+
+0.1.22 (2017-09-13)
+- Bug fix
+- Add some mods (Portals)
+- Updated localefiles (rso-mod, SpaceBook, WearAndTear)
+
+0.1.23 (2017-09-16)
+- Add some mods (BiterBias, Chat To File, Induction Charging, The Long Nauvis)
+- Updated localefiles (Logistic Train Network)
+
+0.1.24 (2017-09-17)
+- Bug fix
+- Add some mods (Lighted Electric Poles +)
+- Updated localefiles (Mini Machines Mod, ShinyIcons)
+
+0.1.25 (2017-09-22)
+- Bug fix
+- Add some mods ()
+- Updated localefiles (Deep Mine, Induction Charging, rso-mod, ShinyIcons, UsefulCombinators, Wear And Tear)
+
+0.1.26 (2017-09-27)
+- Bug fix
+- Add some mods (Belt Swapper, Flare Stack, Helicopters, Precious, precious caffeine, Single-Splitter)
+- Updated localefiles (Endgame Combat, Induction Charging, Power And Armor, quarry, rso mod, Vehicle Wagon, Wear And Tear)
+
+0.1.27 (2017-09-27)
+- Bug fix
+- Add some mods (Electric Vehicles)
+- Updated localefiles ()
+
+0.1.28 (2017-09-29)
+- removed some mods (Lighted Electric Poles +)
+- Add some mods (AtomicBots, Equipment+: Portable Engine, RubberBelts, UraniumRobots)
+- Updated localefiles (Induction Charging, Wear And Tear)
+
+0.1.29 (2017-10-08)
+- Add some mods (RealisticPower, skan-radio-telemetry)
+- Updated localefiles (Bio Industries, Black Market, Electric Train, Fuel Train Stop, Fusion Train, Helicopters, Induction Charging, Logistic Train Network, rso mod, Merging Chests)
+
+0.1.30 (2017-10-18)
+- Add some mods (beautiful bridge railway, Straight Pipes)
+- Updated localefiles (Fuel Train Stop, Helicopters, Induction Charging, Logistic Train Network, Mini machines, Wear And Tear, YARM)
+
+0.2.0 (2017-10-21)
+- Add some mods (Bigger Batteries, Hardcorio:SC2)
+- Updated localefiles (Induction Charging, Mini Machines Mod)
+
+0.2.1 (2017-10-26)
+- Bug fix
+- Add some mods (FirearmsPlus, fws, robotarmy, TheFatController)
+- Updated localefiles (air-filtering, autofill, beltSorter, BridgeRailway, delorean, Enhanced_Map_Colors, EquipmentHotkeys, EquipmentHotkeys_fixed, Expanded_Color_Lamps, extinguisher, FARL, Flow Control, Geothermal, KS_Power, methane-processing, More-Locomotives, Natural_Evolution_Enemies, Portals, Rampant, Reactor Interface, Renamer, Ruins, TeslaTurret, TrainSpeedLimit, truck, vanilla-loaders, Vehicle_Radar, VehicleSnap, vtk-deep-core-mining, Warehousing, YARM)
+
+0.2.2 (2017-10-30)
+- Bug fix
+- Add some mods (Big Brother Bob's plugin, Dectorio, LJD Vehicles, Minimap autohide)
+- Updated localefiles (AAI Industry, Rampant)
+
+0.2.3 (2017-10-31)
+- Bug fix
+
+0.2.4 (2017-11-03)
+- Bug fix
+- Updated localefiles (Big Brother Bob's plugin)
+
+0.2.5 (2017-11-07)
+- Bug fix
+- Add some mods (PipePressureMeter)
+- Updated localefiles (Dectorio, DeepMine, FuelTrainStop, Induction Charging, LogisticTrainNetwork)
