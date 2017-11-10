@@ -32,40 +32,6 @@ Thank you for downloaded this mod. (By.Xagros)
 
 0.1.0 (2017-07-28)
 - Add some mods (Meltdown, NauvisDay, robot_attrition, WearAndTear, Fully Automated Rail Layer)
-# XMKTP(Xagros's Mods Korean Translation Project)
-Korean localization mod for Some mods for Factorio.
-
-Thank you for downloaded this mod. (By.Xagros)
-
-0.0.1 (2017-07-16)
-- Released this mod
-
-0.0.2 (2017-07-17)
-- Added Text Plates
-
-0.0.3 (2017-07-17)
-- Added Color Picker
-
-0.0.4 (2017-07-21)
-- Added 5dim's mods locale fix
-
-0.0.5 (2017-07-21)
-- Add some mods (autofill, BigBags, Bottleneck, Flow Control, Map Ping, rso-mod, VehicleSnap)
-
-0.0.6 (2017-07-24)
-- Add some mods (DeepMine, DoubleFurnace, Electric Furnaces, Enhanced_Map_Colors, EquipmentHotkeys, EvoGUI, KS_Power, Wind_Turbine, YARM)
-
-0.0.7 (2017-07-26)
-- Add some mods (air-filtering, alien-biomes, angelssmelting-extended, Big Brother, Bio Industries, bobsflowcontrol, extinguisher, Flare, StoneWaterWell, TrainSpeedLimit, vanilla-loaders, Vehicle Wagon, Warehousing, WaterWell)
-
-0.0.8 (2017-07-28)
-- Add some mods (Concrete Lamppost, Laser Beam Turrets, Loader Furnace, Noxys Waterfill, Orbital Ion Cannon, Satellite Uplink Station)
-
-0.0.9 (2017-07-28)
-- Add some mods (beltSorter, BigDrills, BridgeRailway, Expanded Color Lamps, JunkTrain, methane-processing, MiningTools, Natural Evolution Buildings, Natural Evolution Enemies, Natural Evolution Expansion, RailPowerSystem, Rampant, Renamer, SmarterInserter, Swarm, TeslaTurret, train-speed-limiter)
-
-0.1.0 (2017-07-28)
-- Add some mods (Meltdown, NauvisDay, robot_attrition, WearAndTear, Fully Automated Rail Layer)
 
 0.1.1 (2017-08-02)
 - Add some mods (Teslacharger)
@@ -219,3 +185,10 @@ Thank you for downloaded this mod. (By.Xagros)
 - Bug fix
 - Add some mods (PipePressureMeter)
 - Updated localefiles (Dectorio, DeepMine, FuelTrainStop, Induction Charging, LogisticTrainNetwork)
+
+0.2.6 (2017-11-11)
+- Add some mods (Orphan Finder, Railway Painter)
+- Updated localefiles (FirearmsPlus, Automatic Train Fuel Stop)
+
+0.2.7 (2017-11-11)
+- Bug fix
