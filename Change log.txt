@@ -192,3 +192,6 @@ Thank you for downloaded this mod. (By.Xagros)
 
 0.2.7 (2017-11-11)
 - Bug fix
+
+0.2.8 (2017-11-11)
+- Updated localefiles (Deep core mining)
