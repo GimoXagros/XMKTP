@@ -201,11 +201,8 @@ Uranium Robots
 Flare Stack
 Flow Control
 Nuclear Locomotives
-<<<<<<< HEAD
 Orphan Finder
 Reactor Interface
-=======
->>>>>>> master
 Renamer
 
 >+ [Hermios](https://mods.factorio.com/mods/Hermios)
@@ -231,13 +228,10 @@ Robot Mining Site
 
 >>Beautiful Bridge Railway
 
-<<<<<<< HEAD
 >+ [Karakaz](https://mods.factorio.com/mods/Karakaz)
 
 >>Railway Painter
 
-=======
->>>>>>> master
 >+ [Keiler](https://mods.factorio.com/mods/Keiler)
 
 >>Functions-mod
@@ -544,8 +538,4 @@ ShinyIcons
 
 >+ [zomis](https://mods.factorio.com/mods/zomis)
 
-<<<<<<< HEAD
 >>Visual Signals
-=======
->>Visual Signals
->>>>>>> master
