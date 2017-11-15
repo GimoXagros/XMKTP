@@ -14,6 +14,7 @@ https://mods.factorio.com/ 이외의 사이트 배포는 불허합니다. 공유
 
 >리아트리스
 사라리이스
+사후
 AKOO
 Pine Apple
 PPO
@@ -41,7 +42,8 @@ seedream
 
 >+ [AnonymoScoot](https://mods.factorio.com/mods/AnonymoScoot)
 
->>Man Versus Machine
+>>AnonyMods
+Man Versus Machine
 
 >+ [anoyomouse](https://mods.factorio.com/mods/anoyomouse)
 
@@ -77,6 +79,7 @@ Zoom (2 buttons and hotkey to wide zoom)
 >+ [blueblue](https://mods.factorio.com/mods/blueblue)
 
 >>Ore Chaos
+Shallow Water
 
 >+  [cawgod](https://mods.factorio.com/mods/cawgod)
 
@@ -95,6 +98,10 @@ Zoom (2 buttons and hotkey to wide zoom)
 >>Noxys Fading
 Noxys Trees
 Noxys Waterfill
+
+>+ [Cogito_](https://mods.factorio.com/mods/Cogito_)
+
+>>Belt Reverser
 
 >+ [d3x0r](https://mods.factorio.com/mods/d3x0r)
 
@@ -333,6 +340,10 @@ Fusion Train
 
 >>YARM - Resource Monitor
 
+>+ [Nanabell](https://mods.factorio.com/mods/Nanabell)
+
+>>Loader Furnaces
+
 >+ [NathGamer](https://mods.factorio.com/mods/NathGamer)
 
 >>FactorioExtended-Core
@@ -475,6 +486,11 @@ Swarm
 Natural Evolution Buildings
 Natural Evolution Enemies
 Natural Evolution Expansion
+
+>+ [Thorvin](https://mods.factorio.com/mods/Thorvin)
+
+>>Useful Byproducts
+>>>[Original mod: Earendel](https://mods.factorio.com/mods/Earendel/usefulbyproducts)
 
 >+ [trold](https://mods.factorio.com/mods/trold)
 
