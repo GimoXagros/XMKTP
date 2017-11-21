@@ -200,3 +200,12 @@ Thank you for downloaded this mod. (By.Xagros)
 - Bug fix
 - Add some mods (AnonyMods, Belt Reverser, Loader Furnaces, Shallow Water, Useful Byproducts)
 - Updated localefiles (Logistic Train Network)
+
+0.3.1 (2017-11-22)
+- Bug fix
+- Add some mods (Coppermine's Bob's module rebalancing, FastLongInserter)
+- Updated localefiles (AnonyMods, Dectorio, Inventory Sensor, Portals, Rampant, Merging Chests)
+
+0.3.2 (2017-11-22)
+- Bug fix
+- Updated localefiles (Coppermine's Bob's module rebalancing, Portals)

@@ -103,6 +103,10 @@ Noxys Waterfill
 
 >>Belt Reverser
 
+>+ [Coppermine](https://mods.factorio.com/mods/Coppermine)
+
+>>Coppermine's Bob's module rebalancing
+
 >+ [d3x0r](https://mods.factorio.com/mods/d3x0r)
 
 >>Junk Train
@@ -459,6 +463,10 @@ Rubber Belts
 >+ [someone1337](https://mods.factorio.com/mods/someone1337)
 
 >>Waterbomb (and Landfill)
+
+>+ [SPolygon](https://mods.factorio.com/mods/SPolygon)
+
+>>FastLongInserter
 
 >+ [steinio](https://mods.factorio.com/mods/steinio)
 
