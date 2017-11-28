@@ -209,3 +209,8 @@ Thank you for downloaded this mod. (By.Xagros)
 0.3.2 (2017-11-22)
 - Bug fix
 - Updated localefiles (Coppermine's Bob's module rebalancing, Portals)
+
+0.3.3 (2017-11-28)
+- Bug fix
+- Add some mods (Item Collector, Robocharger)
+- Updated localefiles (Hydraulic Pumpjacks, Loader Furnaces, Nanobots: Early Bots, Rampant, Resource Spawner Overhaul, Useful Byproducts)

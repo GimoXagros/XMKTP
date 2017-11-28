@@ -401,6 +401,10 @@ Vehicle Radar
 
 >>Armor Pockets
 
+>+ [qwerter96](https://mods.factorio.com/mods/qwerter96)
+
+>>Flow Control for Bobs pipes
+
 >+ [Raeon](https://mods.factorio.com/mods/Raeon)
 
 >>Bigger Batteries
@@ -432,10 +436,6 @@ Rubber Belts
 
 >>Belt Swapper
 
->+ [qwerter96](https://mods.factorio.com/mods/qwerter96)
-
->>Flow Control for Bobs pipes
-
 >+ [Ranakastrasz](https://mods.factorio.com/mods/Ranakastrasz)
 
 >>Flare
@@ -459,6 +459,10 @@ Rubber Belts
 >+ [Skandragon](https://mods.factorio.com/mods/Skandragon)
 
 >>Skandragon's Radio Telemetry
+
+>+ [Smurph](https://mods.factorio.com/mods/Smurph)
+
+>>Robocharger
 
 >+ [someone1337](https://mods.factorio.com/mods/someone1337)
 
@@ -516,7 +520,8 @@ Meltdown
 
 >+ [Veden](https://mods.factorio.com/mods/Veden)
 
->>Rampant
+>>Item Collector
+Rampant
 
 >+ [VortiK](https://mods.factorio.com/mods/VortiK)
 
