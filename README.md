@@ -146,19 +146,7 @@ Loader Furnace
 
 >+ [Earendel](https://mods.factorio.com/mods/Earendel)
 
->>AAI Industry
-AAI Programmable Structures
-AAI Programmable Vehicles
-AAI Signals
-AAI Vehicles: Chaingunner
-AAI Vehicles: Flame Tank
-AAI Vehicles: Flame Tumbler
-AAI Vehicles: Hauler
-AAI Vehicles: Laser Tank
-AAI Vehicles: Miner
-AAI Vehicles: Warden
-AAI Zones
-Alien Biomes
+>>Alien Biomes
 Concrete and Stone
 Robot Attrition
 Text Plates
@@ -385,10 +373,6 @@ Vehicle Radar
 
 >>Biter Spires
 
->+ [PantherX](https://mods.factorio.com/mods/PantherX)
-
->>Dectorio
-
 >+ [Pithlit](https://mods.factorio.com/mods/Pithlit)
 
 >>Methane processing
@@ -491,6 +475,10 @@ Swarm
 >+ [The\_Evil\_Pickle](https://mods.factorio.com/mods/The_Evil_Pickle)
 
 >>Various Tiles Mod
+
+>+ [therax](https://mods.factorio.com/mods/therax)
+
+>>Miniloader
 
 >+ [TheSAguy](https://mods.factorio.com/mods/TheSAguy)
 
