@@ -76,6 +76,10 @@ TradingChests (exchanges between forces)
 Water Well
 Zoom (2 buttons and hotkey to wide zoom)
 
+>+ [Blank](https://mods.factorio.com/mods/Blank)
+
+>>Backpacks
+
 >+ [blueblue](https://mods.factorio.com/mods/blueblue)
 
 >>Ore Chaos
@@ -139,6 +143,10 @@ Loader Furnace
 >+ [DedlySpyder](https://mods.factorio.com/mods/DedlySpyder)
 
 >>Avatars
+
+>+ [Degraine](https://mods.factorio.com/mods/Degraine)
+
+>>Alternative Steam
 
 >+ [devilwarriors](https://mods.factorio.com/mods/devilwarriors)
 

@@ -219,3 +219,17 @@ Thank you for downloaded this mod. (By.Xagros)
 - Removed some mods (AAI mods(12), Dectorio)
 - Add some mods (Miniloader)
 - Updated localefiles (Logistic Train Network, Resource Spawner Overhaul, ShinyBobGFX, Specialized Oil Refineries, Deep core mining)
+
+1.0.1 (2017-12-09)
+- Add some mods (Alternative Steam, Backpacks)
+- Updated localefiles (Coppermine's Bob's module rebalancing, Logistic Train Network, Miniloader)
+
+1.0.2 (2017-12-14)
+- Updated for Factorio 0.16
+
+1.0.3 (2018-01-05)
+- removed some mods (5dims)
+- Temporary updated for Angels and Bobs mods
+
+1.1.0 (2018-02-13)
+- Updated for AAI, Bobs and 5dims mods
