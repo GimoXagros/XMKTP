@@ -233,3 +233,11 @@ Thank you for downloaded this mod. (By.Xagros)
 
 1.1.0 (2018-02-13)
 - Updated for AAI, Bobs and 5dims mods
+
+1.1.1 (2018-02-14)
+- Fixed bugs
+
+1.1.2 (2018-02-15)
+- Fixed Bobs locales
+- Updated Warehousing, Loader Redux, Mini loader
+- Add some mods (DeadlockLoaders, DeadlockStacking, Bulk Rail Loader)

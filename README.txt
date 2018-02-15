@@ -140,6 +140,11 @@ Loader Furnace
 
 >>Equipment+: Portable Engine
 
+>+ [Deadlock989](https://mods.factorio.com/user/Deadlock989)
+
+>>Deadlock's Compact Loaders
+Deadlock's Stacking Beltboxes
+
 >+ [DedlySpyder](https://mods.factorio.com/mods/DedlySpyder)
 
 >>Avatars
@@ -365,6 +370,7 @@ Picker Extended Version(To be added)
 
 >>Deep Mine
 Inventory Sensor
+Loader Redux
 Logistic Train Network
 More Locomotives
 Vehicle Radar
@@ -487,6 +493,7 @@ Swarm
 >+ [therax](https://mods.factorio.com/mods/therax)
 
 >>Miniloader
+Bulk Rail Loader
 
 >+ [TheSAguy](https://mods.factorio.com/mods/TheSAguy)
 
