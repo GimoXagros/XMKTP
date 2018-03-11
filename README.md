@@ -16,6 +16,7 @@ https://mods.factorio.com/ 이외의 사이트 배포는 불허합니다. 공유
 사라리이스
 사후
 AKOO
+the_delicate
 Pine Apple
 PPO
 seedream
@@ -76,6 +77,10 @@ TradingChests (exchanges between forces)
 Water Well
 Zoom (2 buttons and hotkey to wide zoom)
 
+>+ [blackmaster1313](https://mods.factorio.com/mods/blackmaster1313)
+
+>>Air Filtering Advanced
+
 >+ [Blank](https://mods.factorio.com/mods/Blank)
 
 >>Backpacks
@@ -84,6 +89,10 @@ Zoom (2 buttons and hotkey to wide zoom)
 
 >>Ore Chaos
 Shallow Water
+
+>+ [canidae](https://mods.factorio.com/mods/canidae)
+
+>>Auto Research
 
 >+  [cawgod](https://mods.factorio.com/mods/cawgod)
 
@@ -321,9 +330,18 @@ Fusion Train
 
 >>Big Menz's Research Pack
 
+>+ [mindmix](https://mods.factorio.com/mods/mindmix)
+
+>>Auto Deconstruct
+
 >+ [minizbot2012](https://mods.factorio.com/mods/minizbot2012)
 
 >>Basic Starting Equipment
+
+>+ [MFerrari](https://mods.factorio.com/user/MFerrari)
+
+>>RPG System
+
 
 >+ [Mooncat](https://mods.factorio.com/mods/Mooncat)
 
@@ -387,9 +405,17 @@ Vehicle Radar
 
 >>Biter Spires
 
+>+ [Peppe](https://mods.factorio.com/mods/Peppe)
+
+>>Robot Replacer
+
 >+ [Pithlit](https://mods.factorio.com/mods/Pithlit)
 
 >>Methane processing
+
+>+ [pizzadik](https://mods.factorio.com/user/pizzadik)
+
+>>M41-A Pulse Rifle
 
 >+ [p.o.d](https://mods.factorio.com/mods/p.o.d)
 
