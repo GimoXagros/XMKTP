@@ -967,3 +967,8 @@ Date: 2018-04-14
     - Warehousing Mod
   Fixed Mods[수정된 모드]:
     - Bob's Mod(inserters, logistics and More bobs!)
+---------------------------------------------------------------------------------------------------
+Version: 1.2.2
+Date: 2018-04-14
+  Fixed Mods[수정된 모드]:
+    - Bob's Mod(logistics)
