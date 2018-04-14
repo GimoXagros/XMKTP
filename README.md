@@ -1,4 +1,6 @@
-XMKTP (Xagros's Mods Korean Translation Project)
+# XMKTP(Xagros's Mods Korean Translation Project)
+# Korean localization mod for Some mods for Factorio.
+# Thank you for downloaded this mod. (By.Xagros)
 =============
 Korean localization mod for Some mods for Factorio.
 If your mod need korean locale file, contact me. Discussion and E-mail
@@ -16,6 +18,7 @@ https://mods.factorio.com/ 이외의 사이트 배포는 불허합니다. 공유
 사라리이스
 사후
 AKOO
+Eunji
 the_delicate
 Pine Apple
 PPO
@@ -24,6 +27,11 @@ seedream
 *****
 
 ##Author of included mods
+
+>+ [321freddy](https://mods.factorio.com/mods/321freddy)
+
+>>Attach Notes
+Even Distribution
 
 >+ [ \_\_init\_\_](https://mods.factorio.com/mods/__init__)
 
@@ -62,6 +70,10 @@ Man Versus Machine
 
 >>Merging Chests
 
+>+ [BAndrisHuN](https://mods.factorio.com/mods/BAndrisHuN)
+
+>>Mining and Crafting Speed Research
+
 >+ [Bilka](https://mods.factorio.com/mods/Bilka)
 
 >>Portals
@@ -98,13 +110,19 @@ Shallow Water
 
 >>Fluid Compression (big fluid stacks)
 
+>+  [ceryss](https://mods.factorio.com/mods/ceryss)
+
+>>Waterfill
+>>>[Original mod: Riley19280](https://mods.factorio.com/mod/Waterfill)
+
 >+  [Choumiko](https://mods.factorio.com/mods/Choumiko)
 
 >>Equipment Hotkeys
->>>[Original mod: Articulating](https://mods.factorio.com/mods/Articulating/EquipmentHotkeys)
+>>>[Original mod: Articulating](https://mods.factorio.com/mod/EquipmentHotkeys)
 
 >>Fully Automated Rail Layer
->>The Fat Controller
+Foreman
+The Fat Controller
 
 >+ [CobaltSky](https://mods.factorio.com/mods/CobaltSky)
 
@@ -135,6 +153,14 @@ Delorean
 
 >>Minimap autohide
 
+>+ [DarkyPupu](https://mods.factorio.com/mods/DarkyPupu)
+
+>>Bright Lamp
+
+>+ [dragonwb](https://mods.factorio.com/mods/dragonwb)
+
+>>Laser Weaponry
+
 >+ [Dark\_\_\_Pearl](https://mods.factorio.com/mods/Dark___Pearl)
 
 >>Power And Armor
@@ -151,7 +177,8 @@ Loader Furnace
 
 >+ [Deadlock989](https://mods.factorio.com/user/Deadlock989)
 
->>Deadlock's Compact Loaders
+>>Deadlock's Crating Machine
+Deadlock's Compact Loaders
 Deadlock's Stacking Beltboxes
 
 >+ [DedlySpyder](https://mods.factorio.com/mods/DedlySpyder)
@@ -165,6 +192,10 @@ Deadlock's Stacking Beltboxes
 >+ [devilwarriors](https://mods.factorio.com/mods/devilwarriors)
 
 >>Fire extinguisher
+
+>+ [drbert](https://mods.factorio.com/user/drbert)
+
+>>Advanced Atomics
 
 >+ [Earendel](https://mods.factorio.com/mods/Earendel)
 
@@ -189,6 +220,10 @@ Text Plates
 
 >>Overmind
 
+>+ [folk](https://mods.factorio.com/mods/folk)
+
+>>Just go!
+
 >+ [FunCarcass](https://mods.factorio.com/mods/FunCarcass)
 
 >>Atomic Robots
@@ -197,7 +232,7 @@ Uranium Robots
 >+ [FurStorm](https://mods.factorio.com/mods/FurStorm)
 
 >>Pipe Pressure Meter
->>>[Original mod: theBeave](https://mods.factorio.com/mods/theBeave/PipeMeter)
+>>>[Original mod: theBeave](https://mods.factorio.com/mod/PipeMeter)
 
 >+ [FuzzCat927](https://mods.factorio.com/mods/FuzzCat927)
 
@@ -214,7 +249,7 @@ Uranium Robots
 >+ [goldsword44](https://mods.factorio.com/mods/goldsword44)
 
 >>Goldsword44's JunkRails
->>>[Original mod: goldsword44](https://mods.factorio.com/mods/goldsword44/JunkTrain)
+>>>[Original mod: goldsword44](https://mods.factorio.com/mod/JunkTrain)
 
 >+ [GotLag](https://mods.factorio.com/mods/GotLag)
 
@@ -225,6 +260,16 @@ Nuclear Locomotives
 Orphan Finder
 Reactor Interface
 Renamer
+
+>+ [GustofTime](https://mods.factorio.com/mods/GustofTime)
+
+>>HandyHands - Automatic handcrafting
+>>>[Original mod: Qon](https://mods.factorio.com/mod/HandyHands)
+
+>+ [Helfima](https://mods.factorio.com/mods/Helfima)
+
+>>Helmod: assistant for planning your base.
+
 
 >+ [Hermios](https://mods.factorio.com/mods/Hermios)
 
@@ -239,6 +284,10 @@ Train Speed Limit
 >+ [Impossibru](https://mods.factorio.com/mods/Impossibru)
 
 >>FirearmsPlus
+
+>+ [Ingo](https://mods.factorio.com/mods/Ingo)
+
+>>RealisticReactors
 
 >+ [judos](https://mods.factorio.com/mods/judos)
 
@@ -267,6 +316,7 @@ Robot Mining Site
 Expanded Color Lamps
 KS Power
 Laser beam turrets
+Upgrade Builder and Planner
 
 >+ [KorGgenT](https://mods.factorio.com/mods/KorGgenT)
 
@@ -342,7 +392,6 @@ Fusion Train
 
 >>RPG System
 
-
 >+ [Mooncat](https://mods.factorio.com/mods/Mooncat)
 
 >>Color Picker
@@ -358,6 +407,14 @@ Fusion Train
 >+ [MrSilver2510](https://mods.factorio.com/mods/MrSilver2510)
 
 >>Useful equipment
+
+>+ [Munkeh](https://mods.factorio.com/mods/Munkeh)
+
+>>Wood Mulch Processing
+
+>+ [Mylon](https://mods.factorio.com/mods/Mylon)
+
+>>Bot Servicing
 
 >+ [Narc](https://mods.factorio.com/mods/Narc)
 
@@ -384,6 +441,10 @@ FactorioExtended-Weaponry
 Nanobots: Early Bots
 Picker Extended Version(To be added)
 
+>+ [npo6ka](https://mods.factorio.com/mods/npo6ka)
+
+>>FNEI
+
 >+ [Optera](https://mods.factorio.com/mods/Optera)
 
 >>Deep Mine
@@ -408,6 +469,7 @@ Vehicle Radar
 >+ [Peppe](https://mods.factorio.com/mods/Peppe)
 
 >>Robot Replacer
+Production Statistics Monitor HUD
 
 >+ [Pithlit](https://mods.factorio.com/mods/Pithlit)
 
@@ -464,6 +526,10 @@ Rubber Belts
 
 >>Flare
 
+>+ [SamuelCombrinck](https://mods.factorio.com/mods/SamuelCombrinck)
+
+>>Combat by Samuel
+
 >+ [Schmendrick](https://mods.factorio.com/mods/Schmendrick)
 
 >>Fish and Wildlife
@@ -492,6 +558,11 @@ Rubber Belts
 
 >>Waterbomb (and Landfill)
 
+>+ [sparr](https://mods.factorio.com/user/sparr)
+
+>>Belt Overflow
+Wreckage Pollution
+
 >+ [SPolygon](https://mods.factorio.com/mods/SPolygon)
 
 >>FastLongInserter
@@ -499,6 +570,10 @@ Rubber Belts
 >+ [steinio](https://mods.factorio.com/mods/steinio)
 
 >>Stone Water Well
+
+>+ [SuicidalKid](https://mods.factorio.com/mods/SuicidalKid)
+
+>>Aircraft
 
 >+ [Supercheese](https://mods.factorio.com/mods/Supercheese)
 
@@ -531,7 +606,7 @@ Natural Evolution Expansion
 >+ [Thorvin](https://mods.factorio.com/mods/Thorvin)
 
 >>Useful Byproducts
->>>[Original mod: Earendel](https://mods.factorio.com/mods/Earendel/usefulbyproducts)
+>>>[Original mod: Earendel](https://mods.factorio.com/mod/usefulbyproducts)
 
 >+ [trold](https://mods.factorio.com/mods/trold)
 
@@ -545,7 +620,7 @@ Meltdown
 >+ [unfunf22](https://mods.factorio.com/mods/unfunf22)
 
 >>TerranBuildings V1
->>>[Original mod: Odynius](https://mods.factorio.com/mods/Odynius/TerranBuildings)
+>>>[Original mod: Odynius](https://mods.factorio.com/mod/TerranBuildings)
 
 >+ [Veden](https://mods.factorio.com/mods/Veden)
 

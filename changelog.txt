@@ -1,30 +1,27 @@
-# XMKTP(Xagros's Mods Korean Translation Project)
-# Korean localization mod for Some mods for Factorio.
-# Thank you for downloaded this mod. (By.Xagros)
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.1
 Date: 2017-07-16
-  Changes:
+  Changes[변경점]:
     - Released this mod
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.2
 Date: 2017-07-17
-  Added Mods:
+  Added Mods[추가된 모드]:
     - Text Plates
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.3
 Date: 2017-07-17
-  Added Mods:
+  Added Mods[추가된 모드]:
     - Color Picker
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.4
 Date: 2017-07-21
-  Added Mods:
+  Added Mods[추가된 모드]:
     - 5dim's mods locale fix
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.5
 Date: 2017-07-21
-  Added Mods:
+  Added Mods[추가된 모드]:
     - autofill
     - BigBags
     - Bottleneck
@@ -35,7 +32,7 @@ Date: 2017-07-21
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.6
 Date: 2017-07-24
-  Added Mods:
+  Added Mods[추가된 모드]:
     - DeepMine
     - DoubleFurnace
     - Electric Furnaces
@@ -48,7 +45,7 @@ Date: 2017-07-24
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.7
 Date: 2017-07-26
-  Added Mods:
+  Added Mods[추가된 모드]:
     - air-filtering
     - alien-biomes
     - angelssmelting-extended
@@ -66,7 +63,7 @@ Date: 2017-07-26
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.8
 Date: 2017-07-28
-  Added Mods:
+  Added Mods[추가된 모드]:
     - Concrete Lamppost
     - Laser Beam Turrets
     - Loader Furnace
@@ -76,7 +73,7 @@ Date: 2017-07-28
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.9
 Date: 2017-07-28
-  Added Mods:
+  Added Mods[추가된 모드]:
     - beltSorter
     - BigDrills
     - BridgeRailway
@@ -97,7 +94,7 @@ Date: 2017-07-28
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.0
 Date: 2017-07-28
-  Added Mods:
+  Added Mods[추가된 모드]:
     - Meltdown
     - NauvisDay
     - robot_attrition
@@ -106,282 +103,867 @@ Date: 2017-07-28
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.1
 Date: 2017-08-02
-  Added Mods:
+  Added Mods[추가된 모드]:
     - Teslacharger
-  Updated Mods:
+  Updated Mods[업데이트된 모드]:
     - DeepMine
     - EvoGUI
     - Natural Evolution Buildings
     - Natural Evolution Enemies
     - WearAndTear
     - NauvisDay
-  Fixed Mods:
+  Fixed Mods[수정된 모드]:
     - 5dim_nuclear
 ---------------------------------------------------------------------------------------------------
-0.1.2 (2017-08-04)
-- Removed some mods (EvoGUI)
-- Add some mods (Big_Menzs_Research_Pack, DirtyMining, MiniBasicStart, orechaos, Ruins, voidextension, Waterbomb, WideChests)
-- Updated localefiles (DeepMine, methane-processing, Natural Evolution Buildings, Natural Evolution Enemies, Natural Evolution Expansion, NauvisDay, Noxys_Waterfill, Teslacharger, WearAndTear)
-
-0.1.3 (2017-08-05)
-- Updated localefiles (Bio Industries)
-
-0.1.4 (2017-08-06)
-- Add some mods (Endgame Combat, Functions-mod, Teleportation, Various Tiles Mod, Various Tiles Mod - Extended)
-- Updated localefiles (Junk Train, Natural Evolution Buildings)
-
-0.1.5 (2017-08-08)
-- Add some mods (Avatars, LogisticTrainNetwork, truck, Inventory Sensor)
-- Updated localefiles (Junk Train, methane processing, WearAndTear, orechaos)
-
-0.1.6 (2017-08-08)
-- Add some mods (SpaceBook, Geothermal)
-- Updated localefiles (FARL, WideChests, DirtyMining, Natural_Evolution_Buildings, Natural_Evolution_Expansion, NauvisDay, EndgameCombat)
-
-0.1.7 (2017-08-10)
-- Add some mods (ElectricTrain, FasterStart, FusionTrain, HandCrankGenerator, ManVersusMachine, More-Locomotives, Natural_Evolution_Expansion, Nuclear Locomotives, op_train_speed, Waterbomb)
-- Updated localefiles (5dim_resources, color-picker, DirtyMining, EndgameCombat, JunkTrain2, RailPowerSystem, WearAndTear, YARM)
-
-0.1.8 (2017-08-11)
-- Add some mods (Locomotive Obituaries, Reactor Interface, UsefulCombinators)
-- Updated localefiles (BigDrills, Bio Industries, DirtyMining, EndgameCombat, HandCrankGenerator, More-Locomotives, Nuclear Locomotives, Ruins, WearAndTear)
-
-0.1.9 (2017-08-12)
-- Add some mods (Surfaces_remake, Vehicle_Radar, visual-signals)
-- Updated localefiles (Bio_Industries, DirtyMining, HandCrankGenerator, LogisticTrainNetwork, Rampant, train-speed-limiter)
-
-0.1.10 (2017-08-13)
-- Add some mods (PowerAndArmor, vtk-deep-core-mining, reverse-factory)
-- Updated localefiles (Bio_Industries, WearAndTear)
-
-0.1.11 (2017-08-19)
-- Add some mods (Armageddon, ChooChoo, delorean, FluidCompression, FTweaks, specialized_refineries, useful_equipment, Zoom)
-- Updated localefiles (Bio_Industries, DirtyMining, EndgameCombat, FasterStart, HandCrankGenerator, Inventory Sensor, LogisticTrainNetwork, ManVersusMachine, MiniBasicStart, Natural_Evolution_Expansion, NauvisDay, Nuclear Locomotives, Rampant, UsefulCombinators)
-- Name and Description translated
-
-0.1.12 (2017-08-24)
-- Add some mods (Black Market (sell and buy on the market), TradingChests (exchanges between forces))
-- Updated localefiles (Earendel's AAI mods)
-
-0.1.13 (2017-08-25)
-- Add some mods (Vehicle-turrets, TerranBuildings, scattergun_turret, Noxys_Trees, Noxys_QuickerStumpFade, FuelTrainStop, biter-spire, ammo-loader)
-- Updated localefiles (rso-mod, orechaos, Orbital Ion Cannon, NauvisDay, Loader-Furnace, EndgameCombat, DirtyMining, Bio_Industries, Avatars)
-
-0.1.14 (2017-08-27)
-- Bug fix
-
-0.1.15 (2017-09-03)
-- Add some mods (LargeLamp, mini-machines, Overmind, quarry, robotMiningSite, vtk-cannon-turret, WormAttack)
-- Updated localefiles (Bio_Industries, EndgameCombat, FTweaks, FuelTrainStop, Inventory Sensor, LogisticTrainNetwork, Natural_Evolution_Buildings, orechaos, reverse-factory, Swarm, Teleportation, Teslacharger, textplates, UsefulCombinators, Vehicle-turrets, WearAndTear)
-
-0.1.16 (2017-09-05)
-- Add some mods (Cannon Alpha)
-- Updated localefiles (ammo-loader, Bio_Industries, Electric Furnaces, EndgameCombat, LargeLamp, Natural_Evolution_Buildings, WearAndTear)
-
-0.1.17 (2017-09-07)
-- Add some mods (ATCTower, HydraulicPumpjacks, ShinyAngelGFX, ShinyBobGFX, ShinyIcons, Ships, WarehouseAddons)
-- Updated localefiles (Bio_Industries, Natural_Evolution_Buildings, NauvisDay)
-
-0.1.18 (2017-09-07)
-- Add some mods (Nanobots, Raven)
-- Updated localefiles (CannonAlpha, ShinyBobGFX, WearAndTear)
-
-0.1.19 (2017-09-08)
-- Bug fix
-- Add some mods (Signposts)
-- Updated localefiles (HydraulicPumpjacks)
-
-0.1.20 (2017-09-10)
-- Add some mods (armor-pockets)
-- Updated localefiles (ATCTower, ElectricTrain, Ships, visual-signals)
-
-0.1.21 (2017-09-10)
-- Bug fix
-
-0.1.22 (2017-09-13)
-- Bug fix
-- Add some mods (Portals)
-- Updated localefiles (rso-mod, SpaceBook, WearAndTear)
-
-0.1.23 (2017-09-16)
-- Add some mods (BiterBias, Chat To File, Induction Charging, The Long Nauvis)
-- Updated localefiles (Logistic Train Network)
-
-0.1.24 (2017-09-17)
-- Bug fix
-- Add some mods (Lighted Electric Poles +)
-- Updated localefiles (Mini Machines Mod, ShinyIcons)
-
-0.1.25 (2017-09-22)
-- Bug fix
-- Add some mods ()
-- Updated localefiles (Deep Mine, Induction Charging, rso-mod, ShinyIcons, UsefulCombinators, Wear And Tear)
-
-0.1.26 (2017-09-27)
-- Bug fix
-- Add some mods (Belt Swapper, Flare Stack, Helicopters, Precious, precious caffeine, Single-Splitter)
-- Updated localefiles (Endgame Combat, Induction Charging, Power And Armor, quarry, rso mod, Vehicle Wagon, Wear And Tear)
-
-0.1.27 (2017-09-27)
-- Bug fix
-- Add some mods (Electric Vehicles)
-- Updated localefiles ()
-
-0.1.28 (2017-09-29)
-- removed some mods (Lighted Electric Poles +)
-- Add some mods (AtomicBots, Equipment+: Portable Engine, RubberBelts, UraniumRobots)
-- Updated localefiles (Induction Charging, Wear And Tear)
-
-0.1.29 (2017-10-08)
-- Add some mods (RealisticPower, skan-radio-telemetry)
-- Updated localefiles (Bio Industries, Black Market, Electric Train, Fuel Train Stop, Fusion Train, Helicopters, Induction Charging, Logistic Train Network, rso mod, Merging Chests)
-
-0.1.30 (2017-10-18)
-- Add some mods (beautiful bridge railway, Straight Pipes)
-- Updated localefiles (Fuel Train Stop, Helicopters, Induction Charging, Logistic Train Network, Mini machines, Wear And Tear, YARM)
-
-0.2.0 (2017-10-21)
-- Add some mods (Bigger Batteries, Hardcorio:SC2)
-- Updated localefiles (Induction Charging, Mini Machines Mod)
-
-0.2.1 (2017-10-26)
-- Bug fix
-- Add some mods (FirearmsPlus, fws, robotarmy, TheFatController)
-- Updated localefiles (air-filtering, autofill, beltSorter, BridgeRailway, delorean, Enhanced_Map_Colors, EquipmentHotkeys, EquipmentHotkeys_fixed, Expanded_Color_Lamps, extinguisher, FARL, Flow Control, Geothermal, KS_Power, methane-processing, More-Locomotives, Natural_Evolution_Enemies, Portals, Rampant, Reactor Interface, Renamer, Ruins, TeslaTurret, TrainSpeedLimit, truck, vanilla-loaders, Vehicle_Radar, VehicleSnap, vtk-deep-core-mining, Warehousing, YARM)
-
-0.2.2 (2017-10-30)
-- Bug fix
-- Add some mods (Big Brother Bob's plugin, Dectorio, LJD Vehicles, Minimap autohide)
-- Updated localefiles (AAI Industry, Rampant)
-
-0.2.3 (2017-10-31)
-- Bug fix
-
-0.2.4 (2017-11-03)
-- Bug fix
-- Updated localefiles (Big Brother Bob's plugin)
-
-0.2.5 (2017-11-07)
-- Bug fix
-- Add some mods (PipePressureMeter)
-- Updated localefiles (Dectorio, DeepMine, FuelTrainStop, Induction Charging, LogisticTrainNetwork)
-
-0.2.6 (2017-11-11)
-- Add some mods (Orphan Finder, Railway Painter)
-- Updated localefiles (FirearmsPlus, Automatic Train Fuel Stop)
-
-0.2.7 (2017-11-11)
-- Bug fix
-
-0.2.8 (2017-11-11)
-- Updated localefiles (Deep core mining)
-
-0.3.0 (2017-11-15)
-- Bug fix
-- Add some mods (AnonyMods, Belt Reverser, Loader Furnaces, Shallow Water, Useful Byproducts)
-- Updated localefiles (Logistic Train Network)
-
-0.3.1 (2017-11-22)
-- Bug fix
-- Add some mods (Coppermine's Bob's module rebalancing, FastLongInserter)
-- Updated localefiles (AnonyMods, Dectorio, Inventory Sensor, Portals, Rampant, Merging Chests)
-
-0.3.2 (2017-11-22)
-- Bug fix
-- Updated localefiles (Coppermine's Bob's module rebalancing, Portals)
-
-0.3.3 (2017-11-28)
-- Bug fix
-- Add some mods (Item Collector, Robocharger)
-- Updated localefiles (Hydraulic Pumpjacks, Loader Furnaces, Nanobots: Early Bots, Rampant, Resource Spawner Overhaul, Useful Byproducts)
-
-1.0.0 (2017-12-04)
-- Removed some mods (AAI mods(12), Dectorio)
-- Add some mods (Miniloader)
-- Updated localefiles (Logistic Train Network, Resource Spawner Overhaul, ShinyBobGFX, Specialized Oil Refineries, Deep core mining)
-
-1.0.1 (2017-12-09)
-- Add some mods (Alternative Steam, Backpacks)
-- Updated localefiles (Coppermine's Bob's module rebalancing, Logistic Train Network, Miniloader)
-
-1.0.2 (2017-12-14)
-- Updated for Factorio 0.16
-
-1.0.3 (2018-01-05)
-- removed some mods (5dims)
-- Temporary updated for Angels and Bobs mods
-
-1.1.0 (2018-02-13)
-- Updated for AAI, Bobs and 5dims mods
-
-1.1.1 (2018-02-14)
-- Fixed bugs
-
-1.1.2 (2018-02-15)
-- Fixed Bobs locales
-- Updated Warehousing, Loader Redux, Mini loader
-- Add some mods (DeadlockLoaders, DeadlockStacking, Bulk Rail Loader)
-
-1.1.3 (2018-02-18)
-- Fixed Bobs locales
-- Updated Flow Control, Bio Industries, Rampant, Flare Stack, EquipmentHotkeys, WormAttack, Flare Stack
-- Add some mods (morebobs)
-
-1.1.4 (2018-03-03)
-- Updated Alien Biomes, Armor Pockets, Bio Industries, Deadlock's Compact Loaders, Equipment Hotkeys, Equipment+: Portable Engine, Flare Stack, Flow Control, Hand Crank Generator, KS Power, Meltdown, More Bobs!, Bulk Rail Loader, Rampant, Robot Attrition, Resource Spawner Overhaul, Rubber Belts, Worm Attack!, Air filtering, Induction Charging, Raven, Robocharger
-- Upscaled AAI & Bobs
+Version: 0.1.2
+Date: 2017-08-04
+  Added Mods[추가된 모드]:
+    - Big_Menzs_Research_Pack
+    - DirtyMining
+    - MiniBasicStart
+    - orechaos
+    - Ruins
+    - voidextension
+    - Waterbomb
+    - WideChests
+  Updated Mods[업데이트된 모드]:
+    - DeepMine
+    - methane-processing
+    - Natural Evolution Buildings
+    - Natural Evolution Enemies
+    - Natural Evolution Expansion
+    - NauvisDay
+    - Noxys_Waterfill
+    - Teslacharger
+    - WearAndTear
+  Removed Mods[제거된 모드]:
+    - EvoGUI
+  Fixed Mods[수정된 모드]:
+    - 5dim_nuclear
+---------------------------------------------------------------------------------------------------
+Version: 0.1.3
+Date: 2017-08-05
+  Updated Mods[업데이트된 모드]:
+    - Bio Industries
+---------------------------------------------------------------------------------------------------
+Version: 0.1.4
+Date: 2017-08-06
+  Added Mods[추가된 모드]:
+    - Endgame Combat
+    - Functions-mod
+    - Teleportation
+    - Various Tiles Mod
+    - Various Tiles Mod - Extended
+  Updated Mods[업데이트된 모드]:
+    - Junk Train
+    - Natural Evolution Buildings
+---------------------------------------------------------------------------------------------------
+Version: 0.1.5
+Date: 2017-08-08
+  Added Mods[추가된 모드]:
+    - Avatars
+    - LogisticTrainNetwork
+    - truck
+    - Inventory Sensor
+  Updated Mods[업데이트된 모드]:
+    - Junk Train
+    - methane processing
+    - WearAndTear
+    - orechaos
+---------------------------------------------------------------------------------------------------
+Version: 0.1.6
+Date: 2017-08-08
+  Added Mods[추가된 모드]:
+    - SpaceBook
+    - Geothermal
+  Updated Mods[업데이트된 모드]:
+    - FARL
+    - WideChests
+    - DirtyMining
+    - Natural_Evolution_Buildings
+    - Natural_Evolution_Expansion
+    - NauvisDay
+    - EndgameCombat
+---------------------------------------------------------------------------------------------------
+Version: 0.1.7
+Date: 2017-08-10
+  Added Mods[추가된 모드]:
+    - ElectricTrain
+    - FasterStart
+    - FusionTrain
+    - HandCrankGenerator
+    - ManVersusMachine
+    - More-Locomotives
+    - Natural_Evolution_Expansion
+    - Nuclear Locomotives
+    - op_train_speed
+    - Waterbomb
+  Updated Mods[업데이트된 모드]:
+    - 5dim_resources
+    - color-picker
+    - DirtyMining
+    - EndgameCombat
+    - JunkTrain2
+    - RailPowerSystem
+    - WearAndTear
+    - YARM
+---------------------------------------------------------------------------------------------------
+Version: 0.1.8
+Date: 2017-08-11
+  Added Mods[추가된 모드]:
+    - Locomotive Obituaries
+    - Reactor Interface
+    - UsefulCombinators
+  Updated Mods[업데이트된 모드]:
+    - BigDrills
+    - Bio Industries
+    - DirtyMining
+    - EndgameCombat
+    - HandCrankGenerator
+    - More-Locomotives
+    - Nuclear Locomotives
+    - Ruins
+    - WearAndTear
+---------------------------------------------------------------------------------------------------
+Version: 0.1.9
+Date: 2017-08-12
+  Added Mods[추가된 모드]:
+    - Surfaces_remake
+    - Vehicle_Radar
+    - visual-signals
+  Updated Mods[업데이트된 모드]:
+    - Bio_Industries
+    - DirtyMining
+    - HandCrankGenerator
+    - LogisticTrainNetwork
+    - Rampant
+    - train-speed-limiter
+---------------------------------------------------------------------------------------------------
+Version: 0.1.10
+Date: 2017-08-13
+  Added Mods[추가된 모드]:
+    - PowerAndArmor
+    - vtk-deep-core-mining
+    - reverse-factory
+  Updated Mods[업데이트된 모드]:
+    - Bio_Industries
+    - WearAndTear
+---------------------------------------------------------------------------------------------------
+Version: 0.1.11
+Date: 2017-08-19
+  Added Mods[추가된 모드]:
+    - Armageddon
+    - ChooChoo
+    - delorean
+    - FluidCompression
+    - FTweaks
+    - specialized_refineries
+    - useful_equipment
+    - Zoom
+  Updated Mods[업데이트된 모드]:
+    - Bio_Industries
+    - DirtyMining
+    - EndgameCombat
+    - FasterStart
+    - HandCrankGenerator
+    - Inventory Sensor
+    - LogisticTrainNetwork
+    - ManVersusMachine
+    - MiniBasicStart
+    - Natural_Evolution_Expansion
+    - NauvisDay
+    - Nuclear Locomotives
+    - Rampant
+    - UsefulCombinators
+  Changes[변경점]:
+    - Name and Description translated
+---------------------------------------------------------------------------------------------------
+Version: 0.1.12
+Date: 2017-08-24
+  Added Mods[추가된 모드]:
+    - Black Market (sell and buy on the market)
+    - TradingChests (exchanges between forces)
+  Updated Mods[업데이트된 모드]:
+    - Earendel's AAI mods
+---------------------------------------------------------------------------------------------------
+Version: 0.1.13
+Date: 2017-08-25
+  Added Mods[추가된 모드]:
+    - Vehicle-turrets
+    - TerranBuildings
+    - scattergun_turret
+    - Noxys_Trees
+    - Noxys_QuickerStumpFade
+    - FuelTrainStop
+    - biter-spire
+    - ammo-loader
+  Updated Mods[업데이트된 모드]:
+    - rso-mod
+    - orechaos
+    - Orbital Ion Cannon
+    - NauvisDay
+    - Loader-Furnace
+    - EndgameCombat
+    - DirtyMining
+    - Bio_Industries
+    - Avatars
+---------------------------------------------------------------------------------------------------
+Version: 0.1.14
+Date: 2017-08-27
+  Changes[변경점]:
+    - Bug fix
+---------------------------------------------------------------------------------------------------
+Version: 0.1.15
+Date: 2017-09-03
+  Added Mods[추가된 모드]:
+    - LargeLamp
+    - mini-machines
+    - Overmind
+    - quarry
+    - robotMiningSite
+    - vtk-cannon-turret
+    - WormAttack
+  Updated Mods[업데이트된 모드]:
+    - Bio_Industries
+    - EndgameCombat
+    - FTweaks
+    - FuelTrainStop
+    - Inventory Sensor
+    - LogisticTrainNetwork
+    - Natural_Evolution_Buildings
+    - orechaos
+    - reverse-factory
+    - Swarm
+    - Teleportation
+    - Teslacharger
+    - textplates
+    - UsefulCombinators
+    - Vehicle-turrets
+    - WearAndTear
+---------------------------------------------------------------------------------------------------
+Version: 0.1.16
+Date: 2017-09-05
+  Added Mods[추가된 모드]:
+    - Cannon Alpha
+  Updated Mods[업데이트된 모드]:
+    - ammo-loader
+    - Bio_Industries
+    - NauvisDay
+    - Electric Furnaces
+    - EndgameCombat
+    - LargeLamp
+    - Natural_Evolution_Buildings
+    - WearAndTear
+---------------------------------------------------------------------------------------------------
+Version: 0.1.17
+Date: 2017-09-07
+  Added Mods[추가된 모드]:
+    - ATCTower
+    - HydraulicPumpjacks
+    - ShinyAngelGFX
+    - ShinyBobGFX
+    - ShinyIcons
+    - Ships
+    - WarehouseAddons
+  Updated Mods[업데이트된 모드]:
+    - Bio_Industries
+    - Natural_Evolution_Buildings
+    - NauvisDay
+---------------------------------------------------------------------------------------------------
+Version: 0.1.18
+Date: 2017-09-07
+  Added Mods[추가된 모드]:
+    - Nanobots
+    - Raven
+  Updated Mods[업데이트된 모드]:
+    - CannonAlpha
+    - ShinyBobGFX
+    - WearAndTear
+---------------------------------------------------------------------------------------------------
+Version: 0.1.19
+Date: 2017-09-08
+  Added Mods[추가된 모드]:
+    - Signposts
+  Updated Mods[업데이트된 모드]:
+    - HydraulicPumpjacks
+  Changes[변경점]:
+    - Bug fix
+---------------------------------------------------------------------------------------------------
+Version: 0.1.20
+Date: 2017-09-10
+  Added Mods[추가된 모드]:
+    - armor-pockets
+  Updated Mods[업데이트된 모드]:
+    - ATCTower
+    - ElectricTrain
+    - Ships
+    - visual-signals
+---------------------------------------------------------------------------------------------------
+Version: 0.1.21
+Date: 2017-09-10
+  Changes[변경점]:
+    - Bug fix
+---------------------------------------------------------------------------------------------------
+Version: 0.1.22
+Date: 2017-09-13
+  Added Mods[추가된 모드]:
+    - Portals
+  Updated Mods[업데이트된 모드]:
+    - rso-mod
+    - SpaceBook
+    - WearAndTear
+  Changes[변경점]:
+    - Bug fix
+---------------------------------------------------------------------------------------------------
+Version: 0.1.23
+Date: 2017-09-16
+  Added Mods[추가된 모드]:
+    - BiterBias
+    - Chat To File
+    - Induction Charging
+    - The Long Nauvis
+  Updated Mods[업데이트된 모드]:
+    - Logistic Train Network
+---------------------------------------------------------------------------------------------------
+Version: 0.1.24
+Date: 2017-09-17
+  Added Mods[추가된 모드]:
+    - Lighted Electric Poles +
+  Updated Mods[업데이트된 모드]:
+    - Mini Machines Mod
+    - ShinyIcons
+  Changes[변경점]:
+    - Bug fix
+---------------------------------------------------------------------------------------------------
+Version: 0.1.25
+Date: 2017-09-22
+  Updated Mods[업데이트된 모드]:
+    - Deep Mine
+    - Induction Charging
+    - rso-mod
+    - ShinyIcons
+    - UsefulCombinators
+    - Wear And Tear
+  Changes[변경점]:
+    - Bug fix
+---------------------------------------------------------------------------------------------------
+Version: 0.1.26 (2017-09-27)
+Date: 2017-08-13
+  Added Mods[추가된 모드]:
+    - Belt Swapper
+    - Flare Stack
+    - Helicopters
+    - Precious, precious caffeine
+    - Single-Splitter
+  Updated Mods[업데이트된 모드]:
+    - Endgame Combat
+    - Induction Charging
+    - Power And Armor
+    - quarry
+    - rso mod
+    - Vehicle Wagon
+    - Wear And Tear
+  Changes[변경점]:
+    - Bug fix
+---------------------------------------------------------------------------------------------------
+Version: 0.1.27
+Date: 2017-09-27
+  Added Mods[추가된 모드]:
+    - Electric Vehicles
+  Changes[변경점]:
+    - Bug fix
+---------------------------------------------------------------------------------------------------
+Version: 0.1.28
+Date: 2017-09-29
+  Added Mods[추가된 모드]:
+    - AtomicBots
+    - Equipment+: Portable Engine
+    - RubberBelts
+    - UraniumRobots
+  Updated Mods[업데이트된 모드]:
+    - Induction Charging
+    - Wear And Tear
+  Removed Mods[제거된 모드]:
+    - Lighted Electric Poles +
+---------------------------------------------------------------------------------------------------
+Version: 0.1.29
+Date: 2017-10-08
+  Added Mods[추가된 모드]:
+    - RealisticPower
+    - skan-radio-telemetry
+  Updated Mods[업데이트된 모드]:
+    - Bio Industries
+    - Black Market
+    - Electric Train
+    - Fuel Train Stop
+    - Fusion Train
+    - Helicopters
+    - Induction Charging
+    - Logistic Train Network
+    - rso mod
+    - Merging Chests
+---------------------------------------------------------------------------------------------------
+Version: 0.1.30
+Date: 2017-10-18
+  Added Mods[추가된 모드]:
+    - beautiful bridge railway
+    - Straight Pipes
+  Updated Mods[업데이트된 모드]:
+    - Fuel Train Stop
+    - Helicopters
+    - Induction Charging
+    - Logistic Train Network
+    - Mini machines
+    - Wear And Tear
+    - YARM
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 2017-10-21
+  Added Mods[추가된 모드]:
+    - Bigger Batteries
+    - Hardcorio:SC2
+  Updated Mods[업데이트된 모드]:
+    - Induction Charging
+    - Mini Machines Mod
+---------------------------------------------------------------------------------------------------
+Version: 0.2.1
+Date: 2017-10-26
+  Added Mods[추가된 모드]:
+    - FirearmsPlus
+    - fws
+    - robotarmy
+    - TheFatController
+  Updated Mods[업데이트된 모드]:
+    - air-filtering
+    - autofill
+    - beltSorter
+    - BridgeRailway
+    - delorean
+    - Enhanced_Map_Colors
+    - EquipmentHotkeys
+    - EquipmentHotkeys_fixed
+    - Expanded_Color_Lamps
+    - extinguisher
+    - FARL
+    - Flow Control
+    - Geothermal
+    - KS_Power
+    - methane-processing
+    - More-Locomotives
+    - Natural_Evolution_Enemies
+    - Portals
+    - Rampant
+    - Reactor Interface
+    - Renamer
+    - Ruins
+    - TeslaTurret
+    - TrainSpeedLimit
+    - truck
+    - vanilla-loaders
+    - Vehicle_Radar
+    - VehicleSnap
+    - vtk-deep-core-mining
+    - Warehousing
+    - YARM
+  Changes[변경점]:
+    - Bug fix
+---------------------------------------------------------------------------------------------------
+Version: 0.2.2
+Date: 2017-08-13
+  Added Mods[추가된 모드]:
+    - Big Brother Bob's plugin
+    - Dectorio
+    - LJD Vehicles
+    - Minimap autohide
+  Updated Mods[업데이트된 모드]:
+    - AAI Industry
+    - Rampant
+  Changes[변경점]:
+    - Bug fix
+---------------------------------------------------------------------------------------------------
+Version: 0.2.3
+Date: 2017-10-31
+  Changes[변경점]:
+    - Bug fix
+---------------------------------------------------------------------------------------------------
+Version: 0.2.4
+Date: 2017-11-03
+  Updated Mods[업데이트된 모드]:
+    - Big Brother Bob's plugin
+  Changes[변경점]:
+    - Bug fix
+---------------------------------------------------------------------------------------------------
+Version: 0.2.5
+Date: 2017-11-07
+  Added Mods[추가된 모드]:
+    - PipePressureMeter
+  Updated Mods[업데이트된 모드]:
+    - Dectorio
+    - DeepMine
+    - FuelTrainStop
+    - Induction Charging
+    - LogisticTrainNetwork
+  Changes[변경점]:
+    - Bug fix
+---------------------------------------------------------------------------------------------------
+Version: 0.2.6
+Date: 2017-11-11
+  Added Mods[추가된 모드]:
+    - Orphan Finder
+    - Railway Painter
+  Updated Mods[업데이트된 모드]:
+    - FirearmsPlus
+    - Automatic Train Fuel Stop
+---------------------------------------------------------------------------------------------------
+Version: 0.2.7
+Date: 2017-11-11
+  Changes[변경점]:
+    - Bug fix
+---------------------------------------------------------------------------------------------------
+Version: 0.2.8
+Date: 2017-11-11
+  Updated Mods[업데이트된 모드]:
+    - Deep core mining
+---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 2017-11-15
+  Added Mods[추가된 모드]:
+    - AnonyMods
+    - Belt Reverser
+    - Loader Furnaces
+    - Shallow Water
+    - Useful Byproducts
+  Updated Mods[업데이트된 모드]:
+    - Logistic Train Network
+  Changes[변경점]:
+    - Bug fix
+---------------------------------------------------------------------------------------------------
+Version: 0.3.1
+Date: 2017-11-22
+  Added Mods[추가된 모드]:
+    - Coppermine's Bob's module rebalancing
+    - FastLongInserter
+  Updated Mods[업데이트된 모드]:
+    - AnonyMods
+    - Dectorio
+    - Inventory Sensor
+    - Portals
+    - Rampant
+    - Merging Chests
+  Changes[변경점]:
+    - Bug fix
+---------------------------------------------------------------------------------------------------
+Version: 0.3.2
+Date: 2017-11-22
+  Updated Mods[업데이트된 모드]:
+    - Coppermine's Bob's module rebalancing
+    - Portals
+  Changes[변경점]:
+    - Bug fix
+---------------------------------------------------------------------------------------------------
+Version: 0.3.3
+Date: 2017-11-28
+  Added Mods[추가된 모드]:
+    - Item Collector
+    - Robocharger
+  Updated Mods[업데이트된 모드]:
+    - Hydraulic Pumpjacks
+    - Loader Furnaces
+    - Nanobots: Early Bots
+    - Rampant
+    - Resource Spawner Overhaul
+    - Useful Byproducts
+  Changes[변경점]:
+    - Bug fix
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2017-12-04
+  Added Mods[추가된 모드]:
+    - Miniloader
+  Updated Mods[업데이트된 모드]:
+    - Logistic Train Network
+    - Resource Spawner Overhaul
+    - ShinyBobGFX
+    - Specialized Oil Refineries
+    - Deep core mining
+  Removed Mods[제거된 모드]:
+    - Removed some mods (AAI mods(12), Dectorio)
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2017-12-09
+  Added Mods[추가된 모드]:
+    - Alternative Steam
+    - Backpacks
+  Updated Mods[업데이트된 모드]:
+    - Coppermine's Bob's module rebalancing
+    - Logistic Train Network
+    - Miniloader
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2017-12-14
+  Changes[변경점]:
+    - Updated for Factorio 0.16
+---------------------------------------------------------------------------------------------------
+Version: 1.0.3
+Date: 2018-01-05
+  Changes[변경점]:
+    - Temporary updated for Angels and Bobs mods
+  Removed Mods[제거된 모드]:
+    - 5dims mods
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2018-02-13
+  Updated Mods[업데이트된 모드]:
+    - Updated for AAI, Bobs and 5dims mods
+---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+Date: 2018-02-14
+  Changes[변경점]:
+    - Fixed bugs
+---------------------------------------------------------------------------------------------------
+Version: 1.1.2
+Date: 2018-02-15
+  Added Mods[추가된 모드]:
+    - DeadlockLoaders
+    - DeadlockStacking
+    - Bulk Rail Loader
+  Updated Mods[업데이트된 모드]:
+    - Warehousing
+    - Loader Redux
+    - Mini loader
+  Fixed Mods[수정된 모드]:
+    - Bobs locales
+---------------------------------------------------------------------------------------------------
+Version: 1.1.3
+Date: 2018-02-18
+  Added Mods[추가된 모드]:
+    - morebobs
+  Updated Mods[업데이트된 모드]:
+    - Flow Control
+    - Bio Industries
+    - Rampant
+    - Flare Stack
+    - EquipmentHotkeys
+    - WormAttack
+  Fixed Mods[수정된 모드]:
+    - Bobs locales
+---------------------------------------------------------------------------------------------------
+Version: 1.1.4
+Date: 2018-03-03
+  Updated Mods[업데이트된 모드]:
+    - Alien Biomes
+    - Armor Pockets
+    - Bio Industries
+    - Deadlock's Compact Loaders
+    - Equipment Hotkeys
+    - Equipment+: Portable Engine
+    - Flare Stack
+    - Flow Control
+    - Hand Crank Generator
+    - KS Power
+    - Meltdown
+    - More Bobs!
+    - Bulk Rail Loader
+    - Rampant
+    - Robot Attrition
+    - Resource Spawner Overhaul
+    - Rubber Belts
+    - Worm Attack!
+    - Air filtering
+    - Induction Charging
+    - Raven
+    - Robocharger
+  Changes[변경점]:
+    - Upscaled AAI & Bobs
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.5
 Date: 2018-03-06
-  Added Mods:
+  Added Mods[추가된 모드]:
     - Air Filtering Advanced
     - Auto Deconstruct
     - Auto Research
     - Robot Replacer
-  Updated Mods:
+  Updated Mods[업데이트된 모드]:
     - Bio Industries
-	- Deadlock's Compact Loaders
-	- Deadlock's Stacking Beltboxes
-	- Laser_Beam_Turrets
-	- LTN - Logistic Train Network
-	- Map Ping
-	- More Bobs!
-	- Robot Mining Site
-	- Useful Combinators
-	- VehicleSnap
-  Fixed Mods:
+    - Deadlock's Compact Loaders
+    - Deadlock's Stacking Beltboxes
+    - Laser_Beam_Turrets
+    - LTN - Logistic Train Network
+    - Map Ping
+    - More Bobs!
+    - Robot Mining Site
+    - Useful Combinators
+    - VehicleSnap
+  Fixed Mods[수정된 모드]:
     - Bob's Warfare
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.6
 Date: 2018-03-10
-  Added Mods:
+  Added Mods[추가된 모드]:
     - M41-A Pulse Rifle
-  Updated Mods:
+  Updated Mods[업데이트된 모드]:
     - FirearmsPlus
-	- Worm Attack!
-	- DirtyMining
-	- Ore Chaos
+    - Worm Attack!
+    - DirtyMining
+    - Ore Chaos
     - Bob's Logistics mod
     - Bob's Tech
     - Miniloader
-  Fixed Mods:
+  Fixed Mods[수정된 모드]:
     - Loader Redux
     - Loader Furnaces
     - Vanilla loaders
-	- Deadlock's Compact Loaders
-	- Deadlock's Stacking Beltboxes
+    - Deadlock's Compact Loaders
+    - Deadlock's Stacking Beltboxes
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.7
 Date: 2018-03-11
-  Added Mods:
+  Added Mods[추가된 모드]:
     - RPG System
-  Updated Mods:
+  Updated Mods[업데이트된 모드]:
     - Bob's Logistics mod
-  Fixed Mods:
+  Fixed Mods[수정된 모드]:
     - Miniloader
     - Loader Redux
     - Loader Furnaces
     - Vanilla loaders
-	- Deadlock's Compact Loaders
-	- Deadlock's Stacking Beltboxes
+    - Deadlock's Compact Loaders
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.8
+Date: 2018-03-14
+  Added Mods[추가된 모드]:
+    - Bot Servicing
+    - Laser Weaponry
+  Updated Mods[업데이트된 모드]:
+    - Bio Industries
+    - Bob's Adjustable Inserters
+    - Bob's Logistics mod
+    - Bob's Metals, Chemicals and Intermediates
+    - Bob's Power
+    - Bob's Warfare
+    - Deadlock's Stacking Beltboxes
+    - Flare
+    - Hydraulic Pumpjacks
+    - KS Power
+    - Map Ping
+    - Miniloader
+    - Natural Evolution Buildings
+    - Pipe Pressure Meter
+    - Waterbomb (and Landfill)
+    - Resource Spawner Overhaul
+  Fixed Mods[수정된 모드]:
+    - M41-A Pulse Rifle
+---------------------------------------------------------------------------------------------------
+Version: 1.1.9
+Date: 2018-03-17
+  Updated Mods[업데이트된 모드]:
+    - ShinyBobGFX
+    - ShinyIcons
+    - Bob's Logistics mod
+    - Bob's Tech
+    - Bulk Rail Loader
+    - KS Power
+  Fixed Mods[수정된 모드]:
+    - Bob's Electronics
+    - Bob's Power
+    - Bio Industries
+    - More Bobs!
+---------------------------------------------------------------------------------------------------
+Version: 1.1.10
+Date: 2018-03-19
+  Updated Mods[업데이트된 모드]:
+    - Bio Industries
+  Fixed Mods[수정된 모드]:
+    - Bob's Metals, Chemicals and Intermediates
+    - Angel's Addons - Ore Silos
+    - Angel's Addons - Petrochem Train
+    - Angel's Addons - Pressure Tanks
+    - Angel's Addons - Warehouses
+    - Angel's Refining
+---------------------------------------------------------------------------------------------------
+Version: 1.1.11
+Date: 2018-03-19
+  Updated Mods[업데이트된 모드]:
+    - More Bobs!
+  Fixed Mods[수정된 모드]:
+    - Bob's Metals, Chemicals and Intermediates
+---------------------------------------------------------------------------------------------------
+Version: 1.1.12
+Date: 2018-03-29
+  Added Mods[추가된 모드]:
+    - Belt Overflow
+    - Wreckage Pollution
+  Updated Mods[업데이트된 모드]:
+    - Bio Industries
+    - Bob's Adjustable Inserters
+    - Bulk Rail Loader
+    - Deadlock's Compact Loaders
+    - Deadlock's Stacking Beltboxes
+    - More Bobs!
+  Fixed Mods[수정된 모드]:
+    - Bob's Warfare
+  Removed Mods[제거된 모드]:
+    - Angel and AAI: 모드 관리를 위해 제거
+---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 2018-04-05
+  Added Mods[추가된 모드]:
+    - Aircraft
+    - Upgrade Builder and Planner
+  Updated Mods[업데이트된 모드]:
+    - Armageddon (nice little disasters)
+    - Auto Research
+    - Bio Industries
+    - Deadlock's Compact Loaders
+    - Deadlock's Stacking Beltboxes
+    - Enhanced Map Colors
+    - Flow Control
+    - Loader Redux
+    - Miniloader
+    - Bulk Rail Loader
+    - Resource Spawner Overhaul
+  Fixed Mods[수정된 모드]:
+    - Bob's Mod(logistics, plates, power, tech, warfare and More bobs!)
+    - Robot Mining Site
+---------------------------------------------------------------------------------------------------
+Version: 1.2.1
+Date: 2018-04-14
+  Added Mods[추가된 모드]:
+    - Advanced Atomics
+    - Attach Notes
+    - Bright Lamp
+    - Combat by Samuel
+    - Deadlock's Crating Machine
+    - Mining and Crafting Speed Research
+    - Even Distribution
+    - FNEI
+    - Just go!
+    - Foreman
+    - HandyHands - Automatic handcrafting
+    - Production Statistics Monitor HUD
+    - RealisticReactors
+    - Helmod: assistant for planning your base.
+    - Waterfill
+    - Wood Mulch Processing
+  Updated Mods[업데이트된 모드]:
+    - Air Filtering Advanced
+    - Alternative Steam
+    - Auto Fill
+    - Backpacks
+    - Bigger Batteries
+    - Bottleneck
+    - Deadlock's Compact Loaders
+    - Fully Automated Rail Layer
+    - FasterStart
+    - Helicopters
+    - Inventory Sensor
+    - KS Power
+    - Miniloader
+    - Mini Machines Mod
+    - Quarry
+    - Bulk Rail Loader
+    - Resource Spawner Overhaul
+    - Deep core mining
+    - Warehousing Mod
+  Fixed Mods[수정된 모드]:
+    - Bob's Mod(inserters, logistics and More bobs!)
