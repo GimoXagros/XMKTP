@@ -978,3 +978,8 @@ Date: 2018-04-15
   Fixed Mods[수정된 모드]:
     - Bob's Mod(ores and plates)
     - Ore Chaos
+---------------------------------------------------------------------------------------------------
+Version: 1.2.4
+Date: 2018-04-16
+  Fixed Mods[수정된 모드]:
+    - Bob's Mod(logistics)

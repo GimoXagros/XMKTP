@@ -1,12 +1,12 @@
 {
   "name": "XMKTP",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "title": "XMKTP(Xagros's Mods Korean Translation Project)",
   "author": "Xagros",
   "contact": "rlgh0925@naver.com",
   "homepage": "http://tyrantk.tistory.com/",
   "factorio_version": "0.16",
-  "date": "2018-04-15",
+  "date": "2018-04-16",
   "description": "팩토리오 모드 한글화 프로젝트입니다.\n\nKorean localization mod for Some mods for Factorio. If your mod need korean locale file, contact me. Discussion and E-mail.",
   "dependencies": ["base"]
 }
