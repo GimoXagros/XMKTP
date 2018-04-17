@@ -28,7 +28,7 @@ Date: 2017-07-21
     - Flow Control
     - Map Ping
     - rso-mod
-    - VehicleSnap
+    - Vehicle Snap
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.6
 Date: 2017-07-24
@@ -982,4 +982,21 @@ Date: 2018-04-15
 Version: 1.2.4
 Date: 2018-04-16
   Fixed Mods[수정된 모드]:
+    - Deep core mining
     - Bob's Mod(logistics)
+---------------------------------------------------------------------------------------------------
+Version: 1.2.5
+Date: 2018-04-16
+  Updated Mods[업데이트된 모드]:
+    - More bobs!
+  Fixed Mods[수정된 모드]:
+    - Deep core mining
+---------------------------------------------------------------------------------------------------
+Version: 1.2.6
+Date: 2018-04-17
+  Added Mods[추가된 모드]:
+    - Advanced Atomics
+    - Attach Notes
+  Fixed Mods[수정된 모드]:
+    - More Inserters + Menu Cleaner
+    - Side Inserters

@@ -260,6 +260,7 @@ Nuclear Locomotives
 Orphan Finder
 Reactor Interface
 Renamer
+Side Inserters
 
 >+ [GustofTime](https://mods.factorio.com/mods/GustofTime)
 
@@ -325,6 +326,7 @@ Upgrade Builder and Planner
 >+ [Kryzeth](https://mods.factorio.com/mods/Kryzeth)
 
 >>Mini Machines Mod
+More Inserters + Menu Cleaner
 Reverse Factory
 
 >+ [kumpu](https://mods.factorio.com/mods/kumpu)
