@@ -1,34 +1,21 @@
-#-------------------------------------------------------------------------------
-# @author Xagros
-# 
-# Copyright 2017
-# 
-# All rights reserved.
-# Distribution of the software in any form is only allowed with
-# explicit, prior permission from the owner.
-#-------------------------------------------------------------------------------
-@author Xagros
+MIT License
 
-This code is the property of and owned and copyrighted by Xagros.
-This code is provided under a modified visible-source license that is as follows:
+XMKTP Copyright (c) 2017 - 2018 Xagros
 
-Any and all users are permitted to use the source for educational purposes or to create derivative works
-for private use only. GitHub forks and direct downloads are considered derivative works.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Unless given explicit written permission - electronic writing is acceptable - no user may redistribute this
-source code nor any derivative works. These pre-approved works must prominently contain this copyright notice.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-Derivative mods using any or all of the source code or assets are EXPRESSLY FORBIDDEN.
-
-Additionally, no attempt may be made to achieve monetary gain from this code by anyone except the original author.
-In the case of pre-approved derivative works, any monetary gains made will be shared between the original author
-and the other developer(s), proportional to the ratio of derived to the original code.
-
-Finally, any and all displays, duplicates or derivatives of this code must be prominently marked as such and must
-contain attribution to the original author, including a link to the original source. Any attempts to claim credit
-for this code will be treated as intentional theft.
-
-With the exception of pre-approved derivative works, only the original author modpacks 
-may distribute compiled binary versions of this code.
-
-Failure to comply with these restrictions is a violation of copyright law and will be dealt with accordingly.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

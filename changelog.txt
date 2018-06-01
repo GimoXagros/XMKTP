@@ -1000,3 +1000,110 @@ Date: 2018-04-17
   Fixed Mods[수정된 모드]:
     - More Inserters + Menu Cleaner
     - Side Inserters
+---------------------------------------------------------------------------------------------------
+Version: 1.2.7
+Date: 2018-04-21
+  Fixed Mods[수정된 모드]:
+    - Bob's Vehicle Equipment
+    - Endgame Combat
+    - Hardcorio:SC2
+---------------------------------------------------------------------------------------------------
+Version: 1.2.8
+Date: 2018-04-27
+  Fixed Mods[수정된 모드]:
+    - Air filtering
+    - Air Filtering Advanced
+  Updated Mods[업데이트된 모드]:
+    - Bio Industries
+    - Natural Evolution Buildings
+    - Deadlock's Compact Loaders
+---------------------------------------------------------------------------------------------------
+Version: 1.2.9
+Date: 2018-04-30
+  Fixed Mods[수정된 모드]:
+    - Armor Pockets
+  Updated Mods[업데이트된 모드]:
+    - More Bobs!
+    - Useful equipment
+---------------------------------------------------------------------------------------------------
+Version: 1.2.10
+Date: 2018-05-01
+  Updated Mods[업데이트된 모드]:
+    - More Bobs!
+---------------------------------------------------------------------------------------------------
+Version: 1.2.11
+Date: 2018-05-05
+  Updated Mods[업데이트된 모드]:
+    - Bio Industries
+    - Deadlock's Compact Loaders
+    - Deadlock's Stacking Beltboxes
+    - More Bobs!
+---------------------------------------------------------------------------------------------------
+Version: 1.2.12
+Date: 2018-05-11
+  Added Mods[추가된 모드]:
+    - Hovercraft
+  Updated Mods[업데이트된 모드]:
+    - Ammo Loader+
+    - Deadlock's Crating Machine
+    - Deadlock's Compact Loaders
+    - Deadlock's Stacking Beltboxes
+    - Vehicle turrets
+    - Vehicle Wagon
+    - YARM - Resource Monitor
+---------------------------------------------------------------------------------------------------
+Version: 1.2.13
+Date: 2018-05-20
+  Updated Mods[업데이트된 모드]:
+    - Ammo Loader+
+    - Bio Industries
+    - Bob's Character classes
+    - Bob's Metals, Chemicals and Intermediates
+    - Bob's Power
+    - Deadlock's Stacking Beltboxes
+    - LTN - Logistic Train Network
+    - More Bobs!
+---------------------------------------------------------------------------------------------------
+Version: 1.3.0
+Date: 2018-05-28
+  Added Mods[추가된 모드]:
+    - Cargo Ships
+    - More Science Packs - 30 new Science Packs
+    - Mud Water well pump
+    - NPBees Redux
+    - Rampant Arsenal
+    - RTG
+    - Smarter Trains
+    - Vanilla Loaders HD
+  Fixed Mods[수정된 모드]:
+    - Bob's Metals, Chemicals and Intermediates
+    - Flow Control
+  Updated Mods[업데이트된 모드]:
+    - 5dim's mod(All - 20)
+    - Ammo Loader+
+    - Bio Industries
+    - Hovercraft
+    - LTN - Logistic Train Network
+    - Miniloader
+    - More Bobs!
+    - Natural Evolution Enemies
+    - Rampant
+    - Resource Spawner 
+---------------------------------------------------------------------------------------------------
+Version: 1.3.1
+Date: 2018-06-01
+  Added Mods[추가된 모드]:
+    - ScienceCostTweaker Mod (mexmer)
+  Fixed Mods[수정된 모드]:
+    - More Science Packs - 30 new Science Packs
+  Updated Mods[업데이트된 모드]:
+    - Bio Industries
+    - Loader Redux
+    - LTN - Logistic Train Network
+    - More Bobs!
+    - Wood Mulch Processing
+---------------------------------------------------------------------------------------------------
+Version: 1.3.2
+Date: 2018-06-01
+  Updated Mods[업데이트된 모드]:
+    - Rampant Arsenal

@@ -3,7 +3,7 @@
 # Thank you for downloaded this mod. (By.Xagros)
 =============
 Korean localization mod for Some mods for Factorio.
-If your mod need korean locale file, contact me. Discussion and E-mail
+If your mod needs korean locale file, contact me. Discussion and E-mail
 -------------
 팩토리오 모드 한글화 프로젝트입니다. 검수 및 번역 작업에 이상이 있을 시 쓰레드나 이메일로 연락 바랍니다.
 >[Discussion](https://mods.factorio.com/mods/Xagros/XMKTP/discussion) and rlgh0925@naver.com
@@ -14,13 +14,17 @@ https://mods.factorio.com/ 이외의 사이트 배포는 불허합니다. 공유
 
 ##Contributors
 
->리아트리스
+>1210
+대윤
+리아트리스
 사라리이스
 사후
 AKOO
 Eunji
+kolunar
 the_delicate
 Pine Apple
+Planner
 PPO
 seedream
 
@@ -106,22 +110,23 @@ Shallow Water
 
 >>Auto Research
 
->+  [cawgod](https://mods.factorio.com/mods/cawgod)
+>+ [cawgod](https://mods.factorio.com/mods/cawgod)
 
 >>Fluid Compression (big fluid stacks)
 
->+  [ceryss](https://mods.factorio.com/mods/ceryss)
+>+ [ceryss](https://mods.factorio.com/mods/ceryss)
 
 >>Waterfill
 >>>[Original mod: Riley19280](https://mods.factorio.com/mod/Waterfill)
 
->+  [Choumiko](https://mods.factorio.com/mods/Choumiko)
+>+ [Choumiko](https://mods.factorio.com/mods/Choumiko)
 
 >>Equipment Hotkeys
 >>>[Original mod: Articulating](https://mods.factorio.com/mod/EquipmentHotkeys)
 
 >>Fully Automated Rail Layer
 Foreman
+Smarter Trains
 The Fat Controller
 
 >+ [CobaltSky](https://mods.factorio.com/mods/CobaltSky)
@@ -188,6 +193,10 @@ Deadlock's Stacking Beltboxes
 >+ [Degraine](https://mods.factorio.com/mods/Degraine)
 
 >>Alternative Steam
+
+>+ [DellAquila](https://mods.factorio.com/mods/DellAquila)
+
+>>More Science Packs - 30 new Science Packs
 
 >+ [devilwarriors](https://mods.factorio.com/mods/devilwarriors)
 
@@ -311,6 +320,10 @@ Robot Mining Site
 
 >>RealisticPower
 
+>+ [Kirazy](https://mods.factorio.com/mods/Kirazy)
+
+>>Vanilla Loaders HD
+
 >+ [Klonan](https://mods.factorio.com/mods/Klonan)
 
 >>Concrete Lamppost
@@ -382,6 +395,15 @@ Fusion Train
 
 >>Big Menz's Research Pack
 
+>+ [mexmer](https://mods.factorio.com/mods/mexmer)
+
+>>ScienceCostTweaker Mod (mexmer)
+>>>[Original mod: UberWaffe](https://mods.factorio.com/mod/ScienceCostTweaker)
+
+>+ [micromario](https://mods.factorio.com/mods/micromario)
+
+>>NPBees Redux
+
 >+ [mindmix](https://mods.factorio.com/mods/mindmix)
 
 >>Auto Deconstruct
@@ -397,6 +419,10 @@ Fusion Train
 >+ [Mooncat](https://mods.factorio.com/mods/Mooncat)
 
 >>Color Picker
+
+>+ [MostlyNumbers](https://mods.factorio.com/mods/MostlyNumbers)
+
+>>Hovercraft
 
 >+ [Mr.Random](https://mods.factorio.com/mods/Mr.Random)
 
@@ -454,6 +480,7 @@ Inventory Sensor
 Loader Redux
 Logistic Train Network
 More Locomotives
+RTG
 Vehicle Radar
 
 >+ [orzelek](https://mods.factorio.com/mods/orzelek)
@@ -528,6 +555,10 @@ Rubber Belts
 
 >>Flare
 
+>+ [Samuel2507](https://mods.factorio.com/mods/Samuel2507)
+
+>>Mud Water well pump
+
 >+ [SamuelCombrinck](https://mods.factorio.com/mods/SamuelCombrinck)
 
 >>Combat by Samuel
@@ -535,6 +566,10 @@ Rubber Belts
 >+ [Schmendrick](https://mods.factorio.com/mods/Schmendrick)
 
 >>Fish and Wildlife
+
+>+ [schnurrebutz](https://mods.factorio.com/mods/schnurrebutz)
+
+>>Cargo Ships
 
 >+ [Schorty](https://mods.factorio.com/mods/Schorty)
 
@@ -628,6 +663,7 @@ Meltdown
 
 >>Item Collector
 Rampant
+Rampant Arsenal
 
 >+ [VortiK](https://mods.factorio.com/mods/VortiK)
 
