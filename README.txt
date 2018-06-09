@@ -5,7 +5,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/GimoXagros/XMKTP.svg)](https://github.com/GimoXagros/XMKTP/issues) [![CrowdIn](https://img.shields.io/badge/localized-Progressing-green.svg)](https://crowdin.com/project/angelsaddons-newlocales) [![GitHub license](https://img.shields.io/github/license/GimoXagros/XMKTP.svg)](https://github.com/GimoXagros/XMKTP/blob/master/LICENSE)
 -------------
 Korean localization mod for Some mods for Factorio.
-If your mod needs korean locale file, contact me. Discussion and E-mail
+If your mod needs Korean locale file, contact me. Discussion and E-mail
 -------------
 팩토리오 모드 한글화 프로젝트입니다. 검수 및 번역 작업에 이상이 있을 시 쓰레드나 이메일로 연락 바랍니다.
 >[Discussion](https://mods.factorio.com/mods/Xagros/XMKTP/discussion) and rlgh0925@naver.com
