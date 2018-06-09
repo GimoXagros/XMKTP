@@ -1107,3 +1107,73 @@ Version: 1.3.2
 Date: 2018-06-01
   Updated Mods[업데이트된 모드]:
     - Rampant Arsenal
+---------------------------------------------------------------------------------------------------
+Version: 1.3.3
+Date: 2018-06-06
+  Added Mods[추가된 모드]:
+    - Angel's Smelting Patch
+    - Power on a Belt
+    - (Temporary) Fundamental Physics - 基础物理学
+    - (Temporary) Trade Empire
+  Fixed Mods[수정된 모드]:
+    - 5dim's mods
+    - Rubber Belts
+    - ShinyAngelGFX
+    - ShinyIcons
+    - Various Tiles Mod - Extended
+    - Various Tiles Mod
+  Updated Mods[업데이트된 모드]:
+    - Bio Industries
+    - Fully Automated Rail Layer
+    - Food Industry
+    - Foreman
+    - More Science Packs - 30 new Science Packs
+    - Natural Evolution Enemies
+    - Rampant
+    - Rampant Arsenal
+    - RTG
+    - ShinyBobGFX
+    - Smarter Trains
+    - (Temporary) Helmod: assistant for planning your base.
+---------------------------------------------------------------------------------------------------
+Version: 1.3.4
+Date: 2018-06-09
+  Added Mods[추가된 모드]:
+    - Quickprint
+    - Logistic Technology Beacon
+    - ReStack
+    - Sea Block
+    - Sea Block Config
+    - Sea Block Pack
+    - Senpais Pipes
+    - Senpais Trains
+    - Spezialized Oil Processing
+    - Sulfuel
+  Fixed Mods[수정된 모드]:
+    - 5Dim's mod - Automated Fuel & Ammo
+    - 5Dim's mod - Core
+    - Fundamental Physics - 基础物理学
+    - Helmod: assistant for planning your base.
+  Updated Mods[업데이트된 모드]:
+    - The Ruins Mod
+    - Atomic Robots Fix
+    - Belt Reverser
+    - Belt Swapper
+    - Cargo Ships
+    - Color Picker 0.16
+    - Concrete and Stone 0.16
+    - Electric Vehicles
+    - Equipment Hotkeys
+    - Food Industry
+    - HandyHands - Automatic handcrafting
+    - LJD Vehicles
+    - More Science Packs - 30 new Science Packs
+    - Rampant
+    - Ships Extended
+    - Single-Splitter
+    - SpaceBookDori (manager for multiplayer gaming)
+    - Text Plates
+    - Train Speed Limit
+    - Vanilla Loaders HD
+    - Water Well (pump free water from the ground)
+    - Wind_Turbine V16

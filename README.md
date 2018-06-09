@@ -25,6 +25,7 @@ kolunar
 the_delicate
 Pine Apple
 Planner
+PolarZero
 PPO
 seedream
 
@@ -36,14 +37,6 @@ seedream
 
 >>Attach Notes
 Even Distribution
-
->+ [ \_\_init\_\_](https://mods.factorio.com/mods/__init__)
-
->>Wind Turbine
-
->+ [AcryInShame](https://mods.factorio.com/mods/AcryInShame)
-
->>LJD Vehicles
 
 >+ [Afforess](https://mods.factorio.com/mods/Afforess)
 
@@ -61,6 +54,10 @@ Man Versus Machine
 >+ [anoyomouse](https://mods.factorio.com/mods/anoyomouse)
 
 >>Warehousing Mod
+
+>+ [Ansambel](https://mods.factorio.com/mods/Ansambel)
+
+>>Sulfuel
 
 >+ [Apriori](https://mods.factorio.com/mods/Apriori)
 
@@ -80,6 +77,9 @@ Man Versus Machine
 
 >+ [Bilka](https://mods.factorio.com/mods/Bilka)
 
+>>The Ruins Mod
+>>>[Original mod: Gangsir](https://mods.factorio.com/mod/Ruins)
+
 >>Portals
 
 >+ [binbinhfr](https://mods.factorio.com/mods/binbinhfr)
@@ -88,7 +88,7 @@ Man Versus Machine
 Big Bags
 Black Market (sell and buy on the market)
 MiningTools
-SpaceBook (manager for multiplayer gaming)
+SpaceBook (manager for multiplayer gaming) [Rework: Doridian]
 TradingChests (exchanges between forces)
 Water Well
 Zoom (2 buttons and hotkey to wide zoom)
@@ -209,7 +209,7 @@ Deadlock's Stacking Beltboxes
 >+ [Earendel](https://mods.factorio.com/mods/Earendel)
 
 >>Alien Biomes
-Concrete and Stone
+Concrete and Stone [Rework: mkaito]
 Robot Attrition
 Text Plates
 
@@ -220,6 +220,7 @@ Text Plates
 >+ [eradicator](https://mods.factorio.com/mods/eradicator)
 
 >>Hand Crank Generator
+Quickprint
 
 >+ [Erdbeerbaer](https://mods.factorio.com/mods/Erdbeerbaer)
 
@@ -229,13 +230,17 @@ Text Plates
 
 >>Overmind
 
+>+ [Florian1024](https://mods.factorio.com/user/Florian1024)
+
+>>Angel's Smelting Patch
+
 >+ [folk](https://mods.factorio.com/mods/folk)
 
 >>Just go!
 
 >+ [FunCarcass](https://mods.factorio.com/mods/FunCarcass)
 
->>Atomic Robots
+>>Atomic Robots [Rework: paulizleet]
 Uranium Robots
 
 >+ [FurStorm](https://mods.factorio.com/mods/FurStorm)
@@ -250,10 +255,6 @@ Uranium Robots
 >+ [Gallomimia](https://mods.factorio.com/mods/Gallomimia)
 
 >>Teslacharger
-
->+ [Gangsir](https://mods.factorio.com/mods/Gangsir)
-
->>The Ruins Mod
 
 >+ [goldsword44](https://mods.factorio.com/mods/goldsword44)
 
@@ -276,6 +277,8 @@ Side Inserters
 >>HandyHands - Automatic handcrafting
 >>>[Original mod: Qon](https://mods.factorio.com/mod/HandyHands)
 
+>>Trade Empire
+
 >+ [Helfima](https://mods.factorio.com/mods/Helfima)
 
 >>Helmod: assistant for planning your base.
@@ -287,9 +290,8 @@ Side Inserters
 
 >+ [icedevml](https://mods.factorio.com/mods/icedevml)
 
->>Ships
-Signposts
-Train Speed Limit
+>>Signposts
+Train Speed Limit [Rework: serialtasted]
 
 >+ [Impossibru](https://mods.factorio.com/mods/Impossibru)
 
@@ -298,6 +300,13 @@ Train Speed Limit
 >+ [Ingo](https://mods.factorio.com/mods/Ingo)
 
 >>RealisticReactors
+
+>+ [jessefjxm](https://mods.factorio.com/user/jessefjxm)
+
+>>Fundamental Physics - 基础物理学
+
+>>Ships Extended
+>>>[Original mod: icedevml](https://mods.factorio.com/mod/Ships)
 
 >+ [judos](https://mods.factorio.com/mods/judos)
 
@@ -323,6 +332,7 @@ Robot Mining Site
 >+ [Kirazy](https://mods.factorio.com/mods/Kirazy)
 
 >>Vanilla Loaders HD
+>>>[Original mod: Thaui](https://mods.factorio.com/mod/vanilla-loaders)
 
 >+ [Klonan](https://mods.factorio.com/mods/Klonan)
 
@@ -354,9 +364,21 @@ Reverse Factory
 
 >>Bucket Wheel Excavators
 
+>+ [leoch](https://mods.factorio.com/mods/leoch)
+
+>>Electric Vehicles
+>>>[Original mod: mknejp](https://mods.factorio.com/mod/electric-vehicles)
+[Original mod: Semaphor](https://mods.factorio.com/mod/ElectricVehicles)
+
 >+ [LuziferSenpai](https://mods.factorio.com/mods/LuziferSenpai)
 
->>Straight Pipes!
+>>Senpais Pipes
+Senpais Trains
+Straight Pipes!
+
+>+ [M.Cocko](https://mods.factorio.com/mods/M.Cocko)
+
+>>Spezialized Oil Processing
 
 >+ [magu5026](https://mods.factorio.com/mods/magu5026)
 
@@ -368,7 +390,11 @@ Fusion Train
 >+ [maroder](https://mods.factorio.com/mods/maroder)
 
 >>Hardcorio:SC2
->>Raven
+Raven
+
+>+ [Marthen](https://mods.factorio.com/mods/Marthen)
+
+>>Logistic Technology Beacon
 
 >+ [McGuten](https://mods.factorio.com/mods/McGuten)
 
@@ -403,6 +429,7 @@ Fusion Train
 >+ [micromario](https://mods.factorio.com/mods/micromario)
 
 >>NPBees Redux
+Power on a Belt
 
 >+ [mindmix](https://mods.factorio.com/mods/mindmix)
 
@@ -418,7 +445,7 @@ Fusion Train
 
 >+ [Mooncat](https://mods.factorio.com/mods/Mooncat)
 
->>Color Picker
+>>Color Picker [Rework: Yesod]
 
 >+ [MostlyNumbers](https://mods.factorio.com/mods/MostlyNumbers)
 
@@ -481,6 +508,7 @@ Loader Redux
 Logistic Train Network
 More Locomotives
 RTG
+ReStack
 Vehicle Radar
 
 >+ [orzelek](https://mods.factorio.com/mods/orzelek)
@@ -533,9 +561,13 @@ Production Statistics Monitor HUD
 
 >>Precious, precious caffeine
 
->+ [Razorin](https://mods.factorio.com/mods/Razorin)
+>+ [ReasonX](https://mods.factorio.com/mods/ReasonX)
+
+>>Belt Swapper
+>>>[Original mod: Rycochet](https://mods.factorio.com/mod/Belt-Swapper)
 
 >>Single-Splitter
+>>>[Original mod: Razorin](https://mods.factorio.com/mod/Single-Splitter)
 
 >+ [Reika](https://mods.factorio.com/mods/Reika)
 
@@ -546,10 +578,6 @@ FTweaks
 Geothermal
 Nauvis Day
 Rubber Belts
-
->+ [Rycochet](https://mods.factorio.com/mods/Rycochet)
-
->>Belt Swapper
 
 >+ [Ranakastrasz](https://mods.factorio.com/mods/Ranakastrasz)
 
@@ -574,10 +602,6 @@ Rubber Belts
 >+ [Schorty](https://mods.factorio.com/mods/Schorty)
 
 >>Air filtering
-
->+ [Semaphor](https://mods.factorio.com/mods/Semaphor)
-
->>Electric Vehicles
 
 >+ [silentcrim](https://mods.factorio.com/mods/silentcrim)
 
@@ -606,6 +630,9 @@ Wreckage Pollution
 
 >+ [steinio](https://mods.factorio.com/mods/steinio)
 
+>>LJD Vehicles
+>>>[Original mod: AcryInShame](https://mods.factorio.com/mod/LJD_Vehicles)
+
 >>Stone Water Well
 
 >+ [SuicidalKid](https://mods.factorio.com/mods/SuicidalKid)
@@ -619,10 +646,6 @@ Orbital Ion Cannon
 Vehicle Wagon
 Satellite Uplink Station
 Swarm
-
->+ [Thaui](https://mods.factorio.com/mods/Thaui)
-
->>Vanilla loaders
 
 >+ [The\_Evil\_Pickle](https://mods.factorio.com/mods/The_Evil_Pickle)
 
@@ -645,6 +668,12 @@ Natural Evolution Expansion
 >>Useful Byproducts
 >>>[Original mod: Earendel](https://mods.factorio.com/mod/usefulbyproducts)
 
+>+ [Trainwreck](https://mods.factorio.com/mods/Trainwreck)
+
+>>A Sea Block Config
+Sea Block
+Sea Block Pack
+
 >+ [trold](https://mods.factorio.com/mods/trold)
 
 >>Bottleneck
@@ -658,6 +687,9 @@ Meltdown
 
 >>TerranBuildings V1
 >>>[Original mod: Odynius](https://mods.factorio.com/mod/TerranBuildings)
+
+>>Wind Turbine
+>>>[Original mod: \_\_init\_\_](https://mods.factorio.com/mod/Wind_Turbine)
 
 >+ [Veden](https://mods.factorio.com/mods/Veden)
 
