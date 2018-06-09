@@ -1,5 +1,5 @@
 # XMKTP(Xagros's Mods Korean Translation Project)
-=============
+
 ## Korean localization mod for Some mods for Factorio.
 ### Thank you for downloaded this mod. (By.Xagros)
 
@@ -13,6 +13,15 @@ If your mod needs korean locale file, contact me. Discussion and E-mail
 >[Discussion](https://mods.factorio.com/mods/Xagros/XMKTP/discussion) and rlgh0925@naver.com
 
 https://mods.factorio.com/ 이외의 사이트 배포는 불허합니다. 공유가 필요 할 시 사이트 링크로 대체해주세요.
+[AAI](https://mods.factorio.com/mods/Xagros/aai-locales)와 [Yuoki](https://mods.factorio.com/mods/Xagros/yi_locales) 모드와 [Angel](https://mods.factorio.com/mod/angelsaddons-newlocales)의 한글 번역을 독립적인 언어 모드로 분리하였습니다.
+
+PY모드와 매드클라운 모드의 한글 모드를 출시하였습니다.
+[MadClown01](MadClown01's Mods Korean Locale) 
+[Pyanodons](https://mods.factorio.com/mod/pykoreanlocale)
+
+그 외 대형 모드 번역 링크입니다.(아래 모드의 선행 번역은 XMTKP에 먼저 반영됩니다.)
+[Bob](https://mods.factorio.com/mod/boblocale) 
+[5dim](https://mods.factorio.com/mod/5dim_locale)
 
 *****
 
