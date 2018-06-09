@@ -561,7 +561,7 @@ Production Statistics Monitor HUD
 >+ [Raeon](https://mods.factorio.com/mods/Raeon)
 
 >>Bigger Batteries
->>Induction Charging
+Induction Charging
 
 >+ [raid](https://mods.factorio.com/mods/raid)
 
