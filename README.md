@@ -52,6 +52,10 @@ Even Distribution
 
 >>Big Brother
 
+>+ [Aidiakapi](https://mods.factorio.com/mods/Aidiakapi)
+
+>>Quality of Life research
+
 >+ [amdewstow](https://mods.factorio.com/mods/amdewstow)
 
 >>Over Powered Train Speed and brakes
@@ -139,6 +143,11 @@ Foreman
 Smarter Trains
 The Fat Controller
 
+>+ [Chrisgbk](https://mods.factorio.com/mods/Chrisgbk)
+
+>>Creative Mode
+>>>[Original mod: Mooncat](https://mods.factorio.com/mod/creative-mode)
+
 >+ [CobaltSky](https://mods.factorio.com/mods/CobaltSky)
 
 >>Noxys Fading
@@ -180,11 +189,19 @@ Delorean
 
 >>Power And Armor
 
+>+ [Darkcry](https://mods.factorio.com/mods/Darkcry)
+
+>>Radar signals
+
 >+ [darkfrei](https://mods.factorio.com/mods/darkfrei)
 
 >>Cannon Alpha
 HydraulicPumpjacks
 Loader Furnace
+
+>+ [DARKHAWX](https://mods.factorio.com/mods/DARKHAWX)
+
+>>Production Statistics Circuitry
 
 >+ [daydev](https://mods.factorio.com/mods/daydev)
 
@@ -240,13 +257,10 @@ Quickprint
 
 >>Overmind
 
->+ [Florian1024](https://mods.factorio.com/user/Florian1024)
-
->>Angel's Smelting Patch
-
 >+ [folk](https://mods.factorio.com/mods/folk)
 
->>Just go!
+>>Automated Fuel & Ammo
+Just go!
 
 >+ [FunCarcass](https://mods.factorio.com/mods/FunCarcass)
 
@@ -261,6 +275,10 @@ Uranium Robots
 >+ [FuzzCat927](https://mods.factorio.com/mods/FuzzCat927)
 
 >>Quarry
+
+>+ [GalactusX31](https://mods.factorio.com/mods/GalactusX31)
+
+>>Switch Button
 
 >+ [Gallomimia](https://mods.factorio.com/mods/Gallomimia)
 
@@ -287,12 +305,13 @@ Side Inserters
 >>HandyHands - Automatic handcrafting
 >>>[Original mod: Qon](https://mods.factorio.com/mod/HandyHands)
 
->>Trade Empire
-
 >+ [Helfima](https://mods.factorio.com/mods/Helfima)
 
 >>Helmod: assistant for planning your base.
 
+>+ [Hellfire0332](https://mods.factorio.com/mods/Hellfire0332)
+
+>>Iron Man
 
 >+ [Hermios](https://mods.factorio.com/mods/Hermios)
 
@@ -322,6 +341,11 @@ Train Speed Limit [Rework: serialtasted]
 
 >>Belt sorter
 Robot Mining Site
+
+>+ [justarandomgeek](https://mods.factorio.com/mods/justarandomgeek)
+
+>>Nixie Tubes
+Pushbutton
 
 >+ [kapaer](https://mods.factorio.com/mods/kapaer)
 
@@ -379,6 +403,15 @@ Reverse Factory
 >>Electric Vehicles
 >>>[Original mod: mknejp](https://mods.factorio.com/mod/electric-vehicles)
 [Original mod: Semaphor](https://mods.factorio.com/mod/ElectricVehicles)
+
+>+ [LordKTor](https://mods.factorio.com/mods/LordKTor)
+
+>>Space Extension Mod
+
+>+ [lovely_santa](https://mods.factorio.com/mods/lovely_santa)
+
+>>Force Fields
+>>>[Original mod: Force Fields](https://mods.factorio.com/mod/Force%20Fields)
 
 >+ [LuziferSenpai](https://mods.factorio.com/mods/LuziferSenpai)
 
@@ -500,6 +533,10 @@ FactorioExtended-Storage
 FactorioExtended-Transport
 FactorioExtended-Weaponry
 
+>+ [Neemys](https://mods.factorio.com/mods/Neemys)
+
+>>Building Platform
+
 >+ [Nexela](https://mods.factorio.com/mods/Nexela)
 
 >>Autofill
@@ -549,6 +586,11 @@ Production Statistics Monitor HUD
 >+ [p.o.d](https://mods.factorio.com/mods/p.o.d)
 
 >>Angel's Smelting Extended
+
+>+ [Prediter](https://mods.factorio.com/mods/Prediter)
+
+>>Equalizer Chests
+>>>[Original mod: boogieman14](https://mods.factorio.com/mod/Equalizer_Chests)
 
 >+ [psioniq](https://mods.factorio.com/mods/psioniq)
 
@@ -617,6 +659,11 @@ Rubber Belts
 
 >>Automated ammo loader chest
 
+>+ [Sigma1](https://mods.factorio.com/mods/Sigma1)
+
+>>SigmaOne's Mods: Military
+SigmaOne's Mods: Nuclear
+
 >+ [Skandragon](https://mods.factorio.com/mods/Skandragon)
 
 >>Skandragon's Radio Telemetry
@@ -628,6 +675,10 @@ Rubber Belts
 >+ [someone1337](https://mods.factorio.com/mods/someone1337)
 
 >>Waterbomb (and Landfill)
+
+>+ [Sovereign9000](https://mods.factorio.com/mods/Sovereign9000)
+
+>>MoreBiters
 
 >+ [sparr](https://mods.factorio.com/user/sparr)
 
@@ -657,6 +708,10 @@ Vehicle Wagon
 Satellite Uplink Station
 Swarm
 
+>+ [Telemak](https://mods.factorio.com/mods/Telemak)
+
+>>Weather Station
+
 >+ [The\_Evil\_Pickle](https://mods.factorio.com/mods/The_Evil_Pickle)
 
 >>Various Tiles Mod
@@ -677,6 +732,10 @@ Natural Evolution Expansion
 
 >>Useful Byproducts
 >>>[Original mod: Earendel](https://mods.factorio.com/mod/usefulbyproducts)
+
+>+ [toddnollan](https://mods.factorio.com/mods/toddnollan)
+
+>>Omega Drill
 
 >+ [Trainwreck](https://mods.factorio.com/mods/Trainwreck)
 
@@ -738,6 +797,10 @@ The Long Nauvis
 
 >>VehicleSnap
 
+>+ [Zarnoo](https://mods.factorio.com/mods/Zarnoo)
+
+>>Tesla Turret
+
 >+ [Zniwiarz44](https://mods.factorio.com/mods/Zniwiarz44)
 
 >>ATCTower
@@ -751,4 +814,5 @@ ShinyIcons
 
 >+ [zomis](https://mods.factorio.com/mods/zomis)
 
->>Visual Signals
+>>Advanced Combinator
+Visual Signals

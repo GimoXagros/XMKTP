@@ -1177,3 +1177,45 @@ Date: 2018-06-09
     - Vanilla Loaders HD
     - Water Well (pump free water from the ground)
     - Wind_Turbine V16
+---------------------------------------------------------------------------------------------------
+Version: 1.4.0
+Date: 2018-06-15
+  Added Mods[추가된 모드]:
+    - Advanced Combinator
+    - Building Platform
+    - Creative Mode
+    - Equalizer Chests
+    - Automated Fuel & Ammo
+    - Force Fields
+    - Iron Man
+    - Lumberjack
+    - MoreBiters
+    - Nixie Tubes
+    - Omega Drill
+    - Production Statistics Circuitry
+    - Pushbutton
+    - Quality of Life research
+    - Radar signals
+    - SigmaOne's Mods: Military
+    - SigmaOne's Mods: Nuclear
+    - Space Extension Mod
+    - Switch Button
+    - Weather Station
+  Fixed Mods[수정된 모드]:
+    - Armageddon (nice little disasters)
+    - FactorioExtended and FactorioExtended+
+    - Geothermal
+    - Helmod: assistant for planning your base.
+  Updated Mods[업데이트된 모드]:
+    - Big Bags (more space in bags +longer reach)
+    - Bio Industries
+    - Bob's mods
+    - Food Industry
+    - Miniloader
+    - More bobs!
+    - Rampant Arsenal
+    - ScienceCostTweaker Mod (mexmer)
+    - Vanilla Loaders HD
+  Removed Mods[제거된 모드]:
+    - Trade Empire
+    - Angel's Smelting Patch
