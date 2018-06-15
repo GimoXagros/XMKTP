@@ -171,6 +171,7 @@ Truck
 >+ [Danielv123](https://mods.factorio.com/mods/Danielv123)
 
 >>ChooChoo trains pack
+Clusterio
 Delorean
 
 >+ [daniel34](https://mods.factorio.com/mods/daniel34)
@@ -816,3 +817,7 @@ ShinyIcons
 
 >>Advanced Combinator
 Visual Signals
+
+>+ [ZwerOxotnik](https://mods.factorio.com/mods/ZwerOxotnik)
+
+>>Secondary chat
