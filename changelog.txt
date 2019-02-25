@@ -1231,3 +1231,72 @@ Date: 2018-06-15
     - Clusterio
     - Secondary chat
 ---------------------------------------------------------------------------------------------------
+Version: 1.4.3
+Date: 2019-02-25
+  Added Mods[추가된 모드]:
+    - Afraid Of The Dark
+    - Belt Buffer
+    - Bucket Wheel Excavators
+    - Additional turrets
+    - Factorissimo2
+    - Ghost Scanner
+    - Modular Chests
+    - LTN Content Reader
+    - Portals
+    - Research queue
+    - vtx
+  Fixed Mods[수정된 모드]:
+    - Alien Biomes
+    - Creative Mode (Fix for 0.16)
+    - Endgame Combat
+    - Noxys Fading
+    - Noxys Trees
+    - Swarm
+    - Text Plates
+  Updated Mods[업데이트된 모드]:
+    - Air Filtering Advanced
+    - Big Brother
+    - Big Brother Bob's plugin
+    - Bio Industries
+    - Black Market
+    - Bot Servicing
+    - Deadlock's Stacking Beltboxes
+    - Enhanced Map Colors
+    - Quickprint
+    - Food Industry
+    - Automatic Train Fuel Stop
+    - Hovercraft
+    - Induction Charging
+    - More Inserters + Menu Cleaner
+    - Loader Furnace
+    - Loader Furnaces
+    - Loader Redux
+    - Inventory Sensor
+    - LTN - Logistic Train Network
+    - Miniloader
+    - Mini Machines Mod
+    - Minimap autohide
+    - MoreBiters
+    - Ore Chaos
+    - Bulk Rail Loader
+    - Rampant
+    - Rampant Arsenal
+    - Renamer
+    - Robot Mining Site
+    - Resource Spawner Overhaul
+    - Sea Block
+    - ShinyAngelGFX
+    - ShinyIcons
+    - VehicleSnap
+    - Deep core mining
+    - Waterbomb
+    - WideChests
+    - Worm Attack!
+  Removed Mods[제거된 모드]:
+    - 5Dim's mods
+    - Aircraft
+    - Bob's mods
+    - Cargo Ships
+    - Helicopters
+    - RTG
+    - Warehousing Mod
