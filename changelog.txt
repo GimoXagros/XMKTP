@@ -1305,3 +1305,25 @@ Version: 1.4.4
 Date: 2019-02-26
   Changes[변경점]:
     - 실행 오류 수정
+---------------------------------------------------------------------------------------------------
+Version: 1.5.0
+Date: 2019-03-13
+  Changes[변경점]:
+    - 0.17 임시 업데이트
+---------------------------------------------------------------------------------------------------
+Version: 1.5.1
+Date: 2019-07-04
+  Added Mods[추가된 모드]:
+    - Mining Space Industries
+    - Space Exploration
+    - Module Inserter
+    - Additional turrets
+    - Krastorio
+    - Explosive Biters
+    - Krastorio
+    - Minable Intermediates
+    - Deadlock's Stacking Beltboxes & Compact Loaders
+    - Factory Planner
+    - Luzivras Factorio Power
+    - MaxRateCalculator
+    - More Achievements
