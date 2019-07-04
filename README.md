@@ -145,11 +145,6 @@ Foreman
 Smarter Trains
 The Fat Controller
 
->+ [Chrisgbk](https://mods.factorio.com/user/Chrisgbk)
-
->>Creative Mode
->>>[Original mod: Mooncat](https://mods.factorio.com/mod/creative-mode)
-
 >+ [CobaltSky](https://mods.factorio.com/user/CobaltSky)
 
 >>Noxys Fading
@@ -251,6 +246,10 @@ Text Plates
 
 >>ChatToFile
 
+>+ [EnigmaticAussie](https://mods.factorio.com/user/EnigmaticAussie)
+
+>>Minable Intermediates
+
 >+ [eradicator](https://mods.factorio.com/user/eradicator)
 
 >>Hand Crank Generator
@@ -295,6 +294,10 @@ Uranium Robots
 
 >>Goldsword44's JunkRails
 >>>[Original mod: goldsword44](https://mods.factorio.com/mod/JunkTrain)
+
+>+ [Gangsir](https://mods.factorio.com/user/Gangsir)
+
+>>More Achievements
 
 >+ [GotLag](https://mods.factorio.com/user/GotLag)
 
@@ -343,6 +346,11 @@ Train Speed Limit [Rework: serialtasted]
 
 >>Ships Extended
 >>>[Original mod: icedevml](https://mods.factorio.com/mod/Ships)
+
+>+ [jodli](https://mods.factorio.com/user/jodli)
+
+>>Creative Mode
+>>>[Original mod: Mooncat](https://mods.factorio.com/mod/creative-mode)
 
 >+ [judos](https://mods.factorio.com/user/judos)
 
@@ -467,7 +475,9 @@ Power on a Belt
 
 >+ [MFerrari](https://mods.factorio.com/user/MFerrari)
 
+>>Explosive Biters
 >>RPG System
+>>Mining Space Industries
 
 >+ [Mooncat](https://mods.factorio.com/user/Mooncat)
 
@@ -680,6 +690,10 @@ Vehicle Wagon
 Satellite Uplink Station
 Swarm
 
+>+ [Theanderblast](https://mods.factorio.com/user/Theanderblast)
+
+>>Max Rate Calculator
+
 >+ [Telemak](https://mods.factorio.com/user/Telemak)
 
 >>Weather Station
@@ -692,6 +706,10 @@ Swarm
 
 >>Miniloader
 Bulk Rail Loader
+
+>+ [Therenas](https://mods.factorio.com/user/Therenas)
+
+>>Factory Planner
 
 >+ [TheSAguy](https://mods.factorio.com/user/TheSAguy)
 
@@ -763,6 +781,10 @@ Worm Attack!
 >+ [xaraknid](https://mods.factorio.com/user/xaraknid)
 
 >>vtx
+
+>+ [YouTube_Luzivras](https://mods.factorio.com/user/YouTube_Luzivras)
+
+>>Luzivras Factorio Power
 
 >+ [Xerus](https://mods.factorio.com/user/Xerus)
 
