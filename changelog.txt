@@ -1316,7 +1316,6 @@ Date: 2019-07-04
   Added Mods[추가된 모드]:
     - Mining Space Industries
     - Module Inserter
-    - Additional turrets
     - Explosive Biters
     - Krastorio
     - Minable Intermediates
