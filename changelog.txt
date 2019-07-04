@@ -1317,7 +1317,6 @@ Date: 2019-07-04
     - Mining Space Industries
     - Module Inserter
     - Additional turrets
-    - Krastorio
     - Explosive Biters
     - Krastorio
     - Minable Intermediates
