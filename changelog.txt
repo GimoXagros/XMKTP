@@ -1326,3 +1326,6 @@ Date: 2019-07-04
     - Luzivras Factorio Power
     - MaxRateCalculator
     - More Achievements
+  Updated Mods[업데이트된 모드]:
+    - Belt Sorter
+    - YARM
