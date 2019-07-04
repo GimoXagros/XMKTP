@@ -137,6 +137,7 @@ Shallow Water
 
 >+ [Choumiko](https://mods.factorio.com/user/Choumiko)
 
+>>Module Inserter
 >>Equipment Hotkeys
 >>>[Original mod: Articulating](https://mods.factorio.com/mod/EquipmentHotkeys)
 
